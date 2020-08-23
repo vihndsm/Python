@@ -19,3 +19,10 @@
 # e = list(map(lambda lower: lower.lower(), f))# функция для перевести на нижную регстр с помощью lambda
 # print(f)
 # print(e)
+
+
+# x = 'cat'
+# y = 'dog'
+# h = ['cat', 'dog']
+# f = list(filter(lambda a: a in y, h))
+# print(f)
