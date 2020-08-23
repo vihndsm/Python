@@ -46,30 +46,30 @@
 # # umut.prof = 'mid dev'
 # print(umut.name, umut.age, umut.prof)
 
-class Person: #проверка на проходе
-    name = 'default'
-    age = '18'
-    lastname = 'IT'
-    def _set(self, name, age, lastname):
-        self.name = input('name: ')
-        self.lastname = input('lastname:' )
-        self.age = int(input('age: '))
+# class Person: #проверка на проходе
+#     name = 'default'
+#     age = '18'
+#     lastname = 'IT'
+#     def _set(self, name, age, lastname):
+#         self.name = input('name: ')
+#         self.lastname = input('lastname:' )
+#         self.age = int(input('age: '))
 
-class Blank(Person):
-    vak = 'FIT'
-    money = 1
-    def __abc(self, vak, course, money):
-        self.vak = input('faculty: ')
-        self.money = int(input('money: '))
-a = Blank()
-a._set(1, 2, 3) # _ = предупреждение
-a._Blank__abc(1, 2, 3) # __ = безопасное сокрытие данных
-print(a.name, a.lastname, a.age, a.vak, a.money)
+# class Blank(Person):
+#     vak = 'FIT'
+#     money = 1
+#     def __abc(self, vak, course, money):
+#         self.vak = input('faculty: ')
+#         self.money = int(input('money: '))
+# a = Blank()
+# a._set(1, 2, 3) # _ = предупреждение
+# a._Blank__abc(1, 2, 3) # __ = безопасное сокрытие данных
+# print(a.name, a.lastname, a.age, a.vak, a.money)
 
-if a.money > 35000:
-    print('Pass')
-else:
-    print('Stop!')
+# if a.money > 35000:
+#     print('Pass')
+# else:
+#     print('Stop!')
 
 # class Car:   #полиморфизм
 #    def start(self, a, b=None):
