@@ -96,9 +96,9 @@
 #             new_square -= i.square
 #         return new_square
  
-# r1 = Room(6, 5, 2) 
-# print(r1.square) # выведет 48.6
-# r1.addWD(1, 1) 
-# r1.addWD(1, 1)
+# r1 = Room(6, 10, 3) 
+# print(r1.square)
+# r1.addWD(2, 6) 
 # r1.addWD(1, 2)
-# print(r1.workSurface()) # выведет 44.6
+# r1.addWD(1, 2)
+# print(r1.workSurface())
