@@ -71,18 +71,9 @@
 # else:
 #     print('Stop!')
 
-# class Car:   #полиморфизм
-#    def start(self, a, b=None):
-#         if b is not None:
-#             print (a + b)
-#         else:
-#             print (a)
-# car_a = Car()  
-# car_a.start(10)
-# car_a.start(10, 20)
 
 # class Win_Door: # Композиция
-#      def __init__(self, x, y):
+#     def __init__(self, x, y):
 #           self.square = x * y 
 # class Room:
 #     def __init__(self, x, y, z):
@@ -102,3 +93,35 @@
 # r1.addWD(1, 2)
 # r1.addWD(1, 2)
 # print(r1.workSurface())
+
+################################################
+# class Car:   #полиморфизм
+#    def start(self, a, b=None):
+#         if b is not None:
+#             print (a + b)
+#         else:
+#             print (a)
+# car_a = Car()  
+# car_a.start(10)
+# car_a.start(10, 20)
+
+
+# class Cat():
+# #     breed = 'brid'
+# #     def set_value(self, name, age=0):
+# #         self.name = name
+# #         self.age = age
+
+# # bob = Cat()
+# # bob.set_value('Bob')
+# # print(bob.name, bob.age)
+#      def __init__(self, name, breed ='brid', age=1, color='white'):
+#         self.name=name
+#         self.age=age
+#         self.breed=breed
+#         self.color=color
+
+# walt = Cat('Walt')
+# bobi = Cat('Abc')
+# print(walt.name, walt.breed, walt.age, walt.color)
+# print(bobi.name, bobi.breed, bobi.age, bobi.color)

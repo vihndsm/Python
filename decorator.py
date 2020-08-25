@@ -40,3 +40,15 @@
 #     return 'HELLO WORLD'
 
 # print(hello_function())
+
+
+# def decorator(func):
+#     def obertka(a,b):
+#         func(a+b)
+#     return obertka
+
+# def say(a):
+#     print(a)
+
+# a = decorator(say)
+# a(2,3)
