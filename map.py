@@ -42,3 +42,12 @@
 # print(m1)
 # # print(m2)
 
+# print(list(map(lambda x: x.capitalize(), ['cat', 'dog', 'cow'])))
+
+# old_list = ['1', '2', '3', '4', '5', '6', '7']
+# new_list = []
+# for item in old_list:
+#     new_list.append(int(item))
+# print(new_list)
+
+# print(list(map(lambda x: int(x), ['1', '2', '3', '4', '5', '6', '7'])))

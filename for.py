@@ -26,3 +26,7 @@
 #         print(True)
 #     else:
 #         print(False)
+
+
+
+# print([x for x in range(11) if x%2 == 0])

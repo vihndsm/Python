@@ -13,6 +13,7 @@
 # x=int(input('num:'))
 # kvadrat(x)
 
+
 # def num(x, y): # самое большое значение
 #     if x>y:
 #         print(x)
@@ -22,3 +23,24 @@
 # x=int(input('num1:'))
 # y=int(input('num2:'))
 # num(x, y)
+
+
+# def miles_to_km(num_miles):
+#     return num_miles*1.6
+# mile_distance = [1.0, 6.5, 5.4, 2.4, 9]
+# kilometer_distance = list(map(miles_to_km, mile_distance))
+# print(kilometer_distance)
+
+
+# def func(**kwargs):
+#     return kwargs
+# print(func(a=1, b=2, c=3))
+
+# print(func())
+
+# print(func(a='python'))
+
+# def multi(*args): # сумма
+#     print(sum([x for x in range(0,6)]))
+
+# multi()

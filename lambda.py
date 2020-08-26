@@ -26,3 +26,6 @@
 # h = ['cat', 'dog']
 # f = list(filter(lambda a: a in y, h))
 # print(f)
+
+
+# print((lambda x: x + 1)(2))

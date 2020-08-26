@@ -1,5 +1,6 @@
-Aito
-Kirill
-Taalai
-Umut
-kirillkirill
+Red
+Green
+White
+Black
+Pink
+Yellow

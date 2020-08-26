@@ -30,10 +30,10 @@
 #     b = a.readlines()
 #     print(b)
 
-# s = ['Aito','Kirill','Taalai','Umut'] #перевести список по строкам
-# s = [i + '\n' for i in s]
+# colors = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']  #перевести список по строкам
+# colors = [i + '\n' for i in colors]
 # with open('text1.txt','w') as f:
-#     f.writelines(s)
+#     f.writelines(colors)
 
 # with open('text1.txt') as a: #подсчета количества строк в текстовом файле
 #     print(len(a.readlines()))

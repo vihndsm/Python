@@ -6,6 +6,8 @@
 # print(os.getcwd())
 # print(os.listdir(path="."))
 
+# from Functions import * #все данные импортируется
+
 # import Functions as Fun
 # import Functions
 # from Functions import multi as m
