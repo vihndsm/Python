@@ -125,3 +125,36 @@
 # bobi = Cat('Abc')
 # print(walt.name, walt.breed, walt.age, walt.color)
 # print(bobi.name, bobi.breed, bobi.age, bobi.color)
+
+# class Animal: #Полиморфизм
+#     # legs = 4
+#     # tail = 1
+#     def voice(self):
+#         print('Какой-то звук')
+# class Cat():
+#     def voice(self):
+#         print('Мяу мяу')
+# class Dog():
+#     def voice(self):
+#         print('Гав-гав')
+# class Bull():
+#     def voice(self):
+#         print('муу')
+
+# cat1, cat2 = Cat(), Cat()
+# dog1, dog2 = Dog(), Dog()
+# bull1, bull2  = Bull(), Bull()
+
+# an = Animal()
+# farm_band = [cat1, cat2, dog1, dog2, bull1, bull2, an]
+
+# for i in farm_band:
+#     if isinstance(i, Cat):
+#         i.voice()
+#     if isinstance(i, Dog):
+#         i.voice()
+#     if isinstance(i, Bull):
+#         i.voice()
+#     if isinstance(i, Animal):
+#         i.voice()
+
