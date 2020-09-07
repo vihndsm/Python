@@ -12,3 +12,6 @@
 
 # B=(MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY)=range(1,8)
 # print(MONDAY)
+
+# a=[(10, 20, 40), (40, 50, 60), (70, 80, 90)]
+# print([i[:-1]+(100,) for i in a])

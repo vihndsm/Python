@@ -13,3 +13,22 @@ print(1 in z)"""#для проверки ключа
 
 # a=dict(name='Turatbek', prof='prog') #картеж переформатровать в словарь
 # print(a)
+
+
+
+
+# z = {'c1': 'Red', 'c2': 'Green', 'c3': None}
+# z.update({'c2':'Зеленый'})
+# # for i in z:
+# #     if z[i]!=None:
+# #         b=[]
+# #         b.append(z[i])
+# #         print(b)
+
+# # b = []
+# # for v in z.values():
+# #     b.append(v)
+# # print(b)
+
+# c = {key: value for key, value in z.items() if value is not None}
+# print(c)

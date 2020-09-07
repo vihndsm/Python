@@ -44,3 +44,13 @@
 #     print(sum([x for x in range(0,6)]))
 
 # multi()
+
+
+# def num(x):
+#     if x%x==1 or x%1==x:
+#         print('простое')
+#     else:
+#         print('не простое')
+
+# x=int(input('num:'))
+# num(x)

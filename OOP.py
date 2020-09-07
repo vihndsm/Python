@@ -158,3 +158,12 @@
 #     if isinstance(i, Animal):
 #         i.voice()
 
+
+# class Task2:
+#     def get_String(self):
+#         self.string = input('String:')
+#     def print_String(self):
+#         print(self.string.upper())
+# newobj = Task2()
+# newobj.get_String()
+# newobj.print_String()
