@@ -1,0 +1,14 @@
+{% extends 'blog/blog_menu.html' %}
+
+{% block title %}
+    Blog page
+{% endblock %}
+
+{% block content %}
+    {% for name in names %}
+        <h2><p>{{ name }}</p></h2> 
+    {% endfor %}
+    <h1>Turatbek</h1>
+{% endblock %}
+<h3><p>{{ names }}</p></h3> 
+<h4>Hello world</h4>
