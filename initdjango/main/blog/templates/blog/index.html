@@ -1,0 +1,16 @@
+{% extends 'blog_menu.html' %}
+
+
+{% block title %}
+    Главная
+{% endblock %}
+
+{% block content %}
+    {% for name in names %}
+        <h2><p>{{ name }}</p></h2> 
+    {% endfor %}
+    <h1>Turatbek</h1>
+    <h3><p>{{ names }}</p></h3> 
+{% endblock %}
+
+
