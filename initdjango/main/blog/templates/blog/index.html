@@ -6,11 +6,18 @@
 {% endblock %}
 
 {% block content %}
-    {% for name in names %}
-        <h2><p>{{ name }}</p></h2> 
+    {% for post in posts %}
+    <div class="card">
+      <h5 class="card-header">{{ post.title }}</h5>
+      <div class="card-body">
+        <h5 class="card-title">{{post.slug}}</h5>
+        <p class="card-text">{{post.body}}</p>
+        <a href="#" class="btn btn-primary">подробнее</a>
+      </div>
+    </div>
+
     {% endfor %}
     <h1>Turatbek</h1>
-    <h3><p>{{ names }}</p></h3> 
 {% endblock %}
 
 
