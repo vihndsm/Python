@@ -5,8 +5,6 @@ from cart.cart import Cart
 from .tasks import order_created
 from django.urls import reverse
 
-
-
 def order_create(request):
     cart = Cart(request)
     if request.method == 'POST':
