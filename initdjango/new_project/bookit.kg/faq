@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Часто задаваемые вопросы по перелетам на Bookit.kg</title>
+<meta name="description" content="Самые популярные вопросы о покупке авиабилетов на нашем сайте и ответы на них." />
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bookit.kg">
+<meta property="og:title" content="Часто задаваемые вопросы по перелетам на Bookit.kg">
+<meta property="og:description" content="Самые популярные вопросы о покупке авиабилетов на нашем сайте и ответы на них.">
+<meta property="og:url" content="https://bookit.kg/faq">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:image" content="https://bookit.kg/views/images/mobile/share-image.jpg">
+<meta property="og:image:width" content="968">
+<meta property="og:image:height" content="504">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Часто задаваемые вопросы по перелетам на Bookit.kg">
+<meta name="twitter:description" content="Самые популярные вопросы о покупке авиабилетов на нашем сайте и ответы на них.">
+<script src="cdn-cgi/apps/head/LwKvY4TP4LG_EKYfL3ynXWXmdPI.js"></script><link rel="apple-touch-icon" sizes="57x57" href="views/images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="views/images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="views/images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="views/images/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="views/images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="views/images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="views/images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="views/images/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="views/images/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="views/images/favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="https://bookit.kg/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script type="application/ld+json">
+    {
+        "url": "https://bookit.kg/",
+        "sameAs": ["https://www.instagram.com/bookitkg/", "https://www.facebook.com/bookit.kg/"],
+        "name": "Bookit.kg",
+        "logo": "https://bookit.kg/views/images/icons/logo.svg",
+        "@type": "Organization",
+        "@context": "https://schema.org"
+    }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://bookit.kg/",
+                        "name": "Купить авиабилеты"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://bookit.kg/faq",
+                        "name": "Вопрос - Ответ"
+                    }
+                }]
+        }
+    </script>
+</head>
+<body>
+<section class="header-section">
+<div class="container">
+<div class="row pt-1-5">
+<div class="col-lg-2 col-md-2 col-sm-3 col-xs-10"><a class="logotype" href="index.html"><img src="https://bookit.kg/views/images/icons/logo.svg" alt="Bookit"></a></div>
+<div class="col-lg-7 col-md-8 hidden-sm hidden-xs">
+<div class="d-flex">
+<a class="link-item pointer" href="flights/fru">Направления из Бишкека</a>
+<a class="link-item pointer" href="flights/oss">Направления из Оша</a>
+<a class="link-item pointer" href="airlines">Авиакомпании</a>
+
+<a class="link-item pointer" href="schedule">Расписание рейсов</a>
+<a class="link-item pointer" href="https://blog.bookit.kg">Блог</a>
+</div>
+</div>
+<div class="col-lg-3 col-md-1 col-sm-8 hidden-xs text-right">
+<div class="d-inline-block text-left"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+<div class="col-sm-1 col-xs-2 hidden-lg hidden-md text-right"><span><img class="menu-icon" id="bar" src="https://bookit.kg/views/images/menu.svg" alt="Menu"></span></div>
+</div>
+</div>
+<div class="nav-header-menu-mobile hidden-md hidden-lg" id="nav-header-menu-mobile">
+<div class="flex-direction-row p-1">
+<a class="d-block p-1" href="flights/fru">Направления из Бишкека</a>
+<a class="d-block p-1" href="flights/oss">Направления из Оша</a>
+<a class="d-block p-1" href="airlines">Авиакомпании</a>
+<a class="d-block p-1" href="payment">Оплата авиабилетов</a> <a class="d-block p-1" href="schedule">Расписание рейсов</a>
+<a class="d-block p-1" href="https://blog.bookit.kg">Блог</a>
+</div>
+<div class="d-inline-block hidden-sm"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+</section>
+<section class="popular-avia faq-header">
+<div class="container-fluid posr">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h1 class="text-white text-center mb-1">Часто задаваемые вопросы по перелетам</h1>
+<p class="w-700 text-white mt-2 f16 m-auto">Найдите ответы на самые популярные вопросы о Bookit.kg, нашем сайте и о том, как мы работаем. Если вы не нашли здесь ответа на свой вопрос, напишите нам на <a href="cdn-cgi/l/email-protection#c5b6b0b5b5aab7b185a7aaaaaeacb1ebaea2"><span class="__cf_email__" data-cfemail="e89b9d9898879a9ca88a878783819cc6838f">[email&#160;protected]</span></a> или в чат на сайте</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="faq">
+<div class="container p-2">
+<div class="row mx-0">
+<div class="col-xs-12">
+<h2 class="mb-1">Вопрос - Ответ<span class="f18 float-right mt-1 pointer collapsed" data-target="#accordion"><span class="text">Открыть все</span><span class="open-all"></span></span></h2>
+<div class="panel-group" id="accordion">
+<div class="panel panel-default" id="panel1">
+<div class="panel-heading" data-toggle="collapse" data-target="#collapse1">
+<h4 class="panel-title"><a>Что такое авиабилет?</a></h4>
+</div>
+<div class="panel-collapse collapse in" id="collapse1">
+<div class="panel-body">
+<p>Авиабилет — договор о перевозке между авиакомпанией и пассажиром, предоставляющий право на услуги авиационной пассажирской перевозки, в виде именного документа установленного образца.</p>
+<p>Билет является средством контроля и подлежит обязательной регистрации перед вылетом, после регистрации пассажир получает посадочный талон. Авиабилет выписывается на сайте Bookit.kg</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel2">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse2">
+<h4 class="panel-title"><a>Чем отличаются первый, бизнес и эконом классы обслуживания?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse2">
+<div class="panel-body">
+<p>Существует три класса обслуживания: первый класс, бизнес и эконом. Они отличаются по комфортности и обслуживанию в полете. В эконом-классе авиакомпания предоставляет места по наиболее низким ценам.</p>
+<p>В салоне бизнес-класса предоставляются места улучшенной компоновки, а также большой выбор питания и услуг на борту самолета. Первый класс отличается еще большей комфортностью и используется преимущественно на дальних полетах. Кресла в салоне первого класса разворачиваются почти на 180 градусов. В этом классе Вы можете заказать любое меню, фильм, музыку и т. д.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel3">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse3">
+<h4 class="panel-title"><a>Чем отличаются классы бронирования?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse3">
+<div class="panel-body">Классы бронирования зависят от классов обслуживания и стоимости авиабилета. Классы бронирования определяются перевозчиком и скрывают за собой определенную цену авиабилета.</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel4">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse4">
+<h4 class="panel-title"><a>Как купить авиабилет дешевле?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse4">
+<div class="panel-body">
+<p>Если Ваша поездка не привязана к конкретной дате, то у вас есть возможность купить авиабилет по самой низкой цене. Для этого вам просто надо следить за предложениями, акциями, сезонными скидками на авиабилеты (все это вы найдете у нас на сайте Bookit.kg).</p>
+<p>Покупайте билет сразу туда и обратно - это обойдется вам дешевле, чем купить сначала билет в одну сторону, а потом назад.</p>
+<p>Желательно, чтобы полет в обе стороны выполняла одна авиакомпания-перевозчик.</p>
+<p>Билет на рейс с пересадками обычно дешевле чем прямой перелет.</p>
+<p>Обратный вылет должен быть не раньше, чем в ближайшее воскресенье - это называется правилом воскресенья.</p>
+<p>Даты вылета должны быть фиксированными, если обратная дата вылета - открытая, то билет будет стоить дороже.</p>
+<p>Покупайте билет заблаговременно, очень часто дешевый билет предусматривает выкуп за несколько дней (от 3 до 21 дня) до предполагаемой даты вылета.</p>
+Покупая дешевый авиабилет, вы должны помнить, что:
+<ul>
+<li>Обычно такие билеты изменению и возврату не подлежат (исключение - отмена рейса или неблагоприятные погодные условия).</li>
+<li>В некоторых случаях за изменение даты вылета в билете возможен штраф в размере около 50-100$.</li>
+<li>Если вы предпочитаете комфорт и хотите сэкономить время, тогда вам лучше приобрести более дорогой билет на прямой рейс.</li>
+</ul>
+<p>Придерживаясь этих правил, Вы сможете сэкономить свои деньги при покупке авиабилета.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel5">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse5">
+<h4 class="panel-title"><a>Что такое трансфер?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse5">
+<div class="panel-body">
+<p>Трансфер - это пункт или пункты пересадки на пути до конечного пункта следования, продолжительность которых не должна превышать 24 часа. Например, Вы летите в Лондон с пересадкой в Будапеште. В Будапешт Вы прибываете в 16:50 и дальше вылетаете в Лондон в 18:10. Будапешт в данном случае - пункт трансфера.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel6">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse6">
+<h4 class="panel-title"><a>Что такое стоповер?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse6">
+<div class="panel-body">
+<p>Стоповер - это остановка в промежуточном пункте на пути Вашего следования, длительность которой более 24 часов. Например, Вы летите в Париж через Прагу. Если Вы планируете провести в Праге 2 дня и затем лететь в Париж , то Прага, в данном случае, будет пунктом стоповера.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel7">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse7">
+<h4 class="panel-title"><a>Можно ли отправить в путешествие ребенка одного?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse7">
+<div class="panel-body">
+<p>Ребенок, путешествующий один, является юным пассажиром. У каждой авиакомпании есть свои правила по провозу несопровождаемых детей. Если на забронированном участке разрешен провоз несопровождаемых детей, то агент должен внести информацию в бронировку, что ребенок летит один. Также необходимо нотариально заверенное согласие от обоих родителей на перевозку. Затем в аэропорту составляется акт в 3-х экземплярах, где описывается, кто провожает ребенка и кто встречает. 1-й экземпляр отдается провожающему, 2-й - работнику авиакомпании, 3-й - встречающему по прилету.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel8">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse8">
+<h4 class="panel-title"><a>Как осуществить возврат авиабилета и что для этого необходимо?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse8">
+<div class="panel-body">
+<p>Возврат авиабилета вы можете оформить как до вылета, так и после (нужно уточнять правила и условия возврата при оформлении авиабилета, возможно до и после вылете билеты не возвратные, зависит это от класса бронирования) Возврат авиабилета производится в личном кабинете на сайте Bookit.kg.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel9">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse9">
+<h4 class="panel-title"><a>Что делать с билетом, если отменили рейс?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse9">
+<div class="panel-body">
+<p>Если Вы узнали об отмене рейса непосредственно в аэропорту, то представитель авиакомпании-перевозчика может предложить Вам альтернативу, как Вы можете лететь в сложившейся ситуации. Если Вас это не устраивает, то Вам следует сделать пометку в билете об отмене рейса и вернуть его через личный кабинет на сайте Bookit.kg, вложив скан копию билета с отметкой представителя авиакомпании.</p>
+<p>Если вы узнали об отмене рейса по меньшей мере за 1 день до вылета, то Вам необходимо связаться с сотрудником нашего агентства, чтобы согласовать возможные альтернативные варианты. Если эти варианты Вас не удовлетворяют или у Вас к тому времени изменились планы, то Вы можете без потерь получить сумму за купленный билет.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel10">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse10">
+<h4 class="panel-title"><a>В течение какого времени можно осуществить возврат билета?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse10">
+<div class="panel-body">
+<p>Возврат билета по вине пассажира, а не авиакомпании, можно осуществить в течение срока годности билета, который Вы можете узнать при его покупке. Уточняйте правила возврата/обмена при покупке авиабилета, возможно билеты могут быть не возвратными и не подлежать обмену.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel11">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse11">
+<h4 class="panel-title"><a>Как изменить дату вылета по билету?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse11">
+<div class="panel-body">
+<p>При покупке авиабилета в большинстве случаев изменение даты вылета разрешено с каким-либо штрафом. А в некоторых случаях, и вовсе, изменение даты невозможно. Об условиях изменения даты необходимо узнавать еще при покупке авиабилета.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel12">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse12">
+<h4 class="panel-title"><a>Как зарегистрироваться на сайте?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse12">
+<div class="panel-body">
+<p>Система автоматически регистрирует Вас после бронирования билета, т.к. вы вводите при бронировании свою почту и свои данные. Пароль отправляется на указанную Вами почту.</p>
+<p>Для просмотра стоимостей билетов логин и пароль не требуется, если вы еще не зарегистрированы.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default" id="panel13">
+<div class="panel-heading collapsed" data-toggle="collapse" data-target="#collapse13">
+<h4 class="panel-title"><a>Как я могу оплатить за билет?</a></h4>
+</div>
+<div class="panel-collapse collapse" id="collapse13">
+<div class="panel-body">
+<p>Информация по способам оплаты находится по <a href="payment">ссылке</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="bg-dark">
+<div class="container py-2 text-white">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="rules">Правила и условия</a></li>
+<li class="pb-1"><a href="policy">Политика конфиденциальности</a></li>
+<li class="pb-1"><a href="payment">Оплата авиабилетов</a></li>
+<li class="pb-1"><a href="garant">Возвраты авиабилетов и гарантии</a></li> <li class="pb-1"><a href="visa">Визовая справка</a></li>
+<li class="pb-1"><a href="oferta">Оферта</a></li>
+<li class="pb-1"><a href="faq">Вопрос - Ответ</a></li> <li class="pb-1"><a href="become-a-partner">Стать партнером</a></li> </ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="index.html">Главная</a></li>
+<li class="pb-1"><a href="flights/fru">Направления из Бишкека</a></li>
+<li class="pb-1"><a href="flights/oss">Направления из Оша</a></li>
+<li class="pb-1"><a href="airlines">Авиакомпании</a></li>
+<li class="pb-1"><a href="schedule">Расписание рейсов</a></li>
+<li class="pb-1"><a href="https://blog.bookit.kg">Блог</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1 bold">Контакты</li>
+<li class="pb-1"><a href="tel:+996553080080">+996 (553) 080-080</a></li>
+
+<li class="pb-1">пр. Чингиза Айтматова 73/1</li>
+<li class="pb-1"><a href="cdn-cgi/l/email-protection#066f686069466469696d6f72286d61">info<span class="domain">bookit.kg</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-white-line"></div>
+<div class="container pb-1">
+<div class="p-1 text-center text-white"><span>Bookit © 2020 — дешевые авиабилеты</span></div>
+</div>
+</div>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="54d4f26825d2714a688aba95-text/javascript">(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })
+        
+        (window, document, 'script', 'dataLayer', 'GTM-NS4CPS5');
+    </script>
+
+
+
+
+<script type="54d4f26825d2714a688aba95-text/javascript">
+    function jivo() {
+        var widget_id = 'pKcYKXQUIg';
+        var d = document;
+        var w = window;
+
+        function l() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.async = true;
+            s.src = '//code.jivosite.com/script/widget/' + widget_id;
+            var sc = document.getElementsByTagName('script')[0];
+            if (sc) sc.parentNode.insertBefore(s, sc);
+            else d.documentElement.firstChild.appendChild(s);
+        }
+
+        if (d.readyState === 'complete') {
+            l();
+        } else {
+            if (w.attachEvent) {
+                w.attachEvent('onload', l);
+            } else {
+                w.addEventListener('load', l, false);
+            }
+        }
+    }
+
+    setTimeout(jivo, 1000);
+</script>
+
+<link href="https://bookit.kg/views/common.min.css?v=20200403" rel="stylesheet" type="text/css">
+<script src="https://bookit.kg/views/static/js/jquery.min.js?v=20200403" type="54d4f26825d2714a688aba95-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/bootstrap.js?v=20200403" type="54d4f26825d2714a688aba95-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/jquery.ddslick.min.js?v=20200403" type="54d4f26825d2714a688aba95-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/common.js?v=20200403" type="54d4f26825d2714a688aba95-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="54d4f26825d2714a688aba95-|49" defer=""></script></body>
+</html>

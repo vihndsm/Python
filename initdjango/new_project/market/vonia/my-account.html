@@ -1,0 +1,726 @@
+{% load static %}
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>My Account || Vonia</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="img/favicon.ico" type="image/x-icon" rel="shortcut icon">
+        <!-- Place favicon.ico in the root directory -->
+		<!-- google font -->
+		<link href='https://fonts.googleapis.com/css?family=Lato:400,100,300,700,900' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
+		<!-- all css here -->
+		<!-- bootstrap v3.3.6 css -->
+        <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+		<!-- animate css -->
+        <link rel="stylesheet" href="{% static 'css/animate.css' %}">
+		<!-- jquery-ui.min css -->
+        <link rel="stylesheet" href="{% static 'css/jquery-ui.min.css' %}">
+		<!-- meanmenu css -->
+        <link rel="stylesheet" href="{% static 'css/meanmenu.min.css' %}">
+		<!-- owl.carousel css -->
+        <link rel="stylesheet" href="{% static 'css/owl.carousel.css' %}">
+		<!-- font-awesome css -->
+        <link rel="stylesheet" href="{% static 'css/font-awesome.min.css' %}">
+		<!-- nivo-slider css -->
+        <link rel="stylesheet" href="{% static 'css/nivo-slider.css' %}">
+		<!-- style css -->
+		<link rel="stylesheet" href="{% static 'style.css' %}">
+		<!-- responsive css -->
+        <link rel="stylesheet" href="{% static 'css/responsive.css' %}">
+		<!-- modernizr css -->
+        <script src="{% static 'js/vendor/modernizr-2.8.3.min.js' %}"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+		<!-- header-start -->
+		<header>
+			<div class="header-top">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-sm-6 hidden-xs">
+							<div class="language">
+								<div class="current">
+									<span>English</span>
+								</div>
+								<ul class="lan-cur">
+									<li class="selected">
+										<img src="{% static 'img/1/1.jpg' %}" alt="en" />
+										<span>English</span>
+									</li>
+									<li>
+										<img src="{% static 'img/1/2.jpg' %" alt="ar" />
+										<a href="my-account.html" rel="alternate" title="اللغة العربية (Arabic)">
+											<span>اللغة العربية</span>
+										</a>
+									</li>
+								</ul>
+							</div>
+							<div class="currencies">
+								<div class="current">
+									<span class="cur-label">Currency :</span>
+									<strong>GBP</strong>
+								</div>
+								<ul class="lan-cur">
+									<li>
+										<a href="my-account.html"> Dollar (USD) </a>
+									</li>
+									<li>
+										<a href="my-account.html"> Pound (GBP) </a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-6 col-xs-12">
+							<div class="header-userinfo">
+								<ul class="header-links">
+									<li class="first">
+										<a class="link-myaccount" title="My account" href="my-account.html"> My account </a>
+									</li>
+									<li>
+										<a class="link-wishlist wishlist_block" title="My wishlist" href="my-account.html">My wishlist</a>
+									</li>
+									<li>
+										<a class="link-checkout" title="checkout" href="my-account.html">Checkout</a>
+									</li>
+									<li>
+										<a class="login" title="Log in to your customer account" rel="nofollow" href="my-account.html">Log in</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="header-middle">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4 col-sm-6 col-xs-12 hidden-xs">
+							<div class="search-block-top">
+								<input type="text" value="" placeholder="Search" >
+								<button class="btn btn-default " name="submit_search" type="submit"></button>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="pos-logo">
+								<a href="index.html">
+									<img class="logo img-responsive" src="img/logo.jpg" alt="" />
+								</a>
+							</div>
+						</div>						
+						<div class="col-md-4 col-sm-12 col-xs-12">
+							<div class="shopping-cart">
+								<a href="my-account.html" rel="nofollow" title="View my shopping cart">
+									<b>cart 2 item</b>
+								</a>
+								<div class="top-cart-content">
+									<div class="media header-middle-checkout">
+										<div class="media-left check-img">
+											<a href="my-account.html">
+												<img src="{% static 'img/cart-img/blouse.jpg' %}" alt="" />
+											</a>
+										</div>
+										<div class="media-body checkout-content">
+											<h4 class="media-heading">
+												<span class="cart-count">1x</span>
+												<a href="my-account.html">Suspendisse</a>
+												<span class="btn-remove checkout-remove" title="remove this product from my cart">
+													<i class="fa fa-times" aria-hidden="true"></i>
+												</span>
+											</h4>
+											<p class="product-detail"><a href="my-account.html" title="product detail">S, Yellow</a></p>
+											<p>£ 34.78</p>
+										</div>
+									</div>
+									<div class="media header-middle-checkout last-child">
+										<div class="media-left check-img">
+											<a href="my-account.html">
+												<img src="{% static 'img/cart-img/printed-summer-dress.jpg' %}" alt="" />
+											</a>
+										</div>
+										<div class="media-body checkout-content">
+											<h4 class="media-heading">
+												<span class="cart-count">1x</span>
+												<a href="my-account.html#">Suspendisse</a>
+												<span class="btn-remove checkout-remove" title="remove this product from my cart">
+													<i class="fa fa-times" aria-hidden="true"></i>
+												</span>
+											</h4>
+											<p class="product-detail"><a href="my-account.html" title="product detail">S, Black</a></p>
+											<p>£ 32.40</p>
+										</div>
+									</div>
+									<div class="cart-total">
+										<span>Total</span>
+										<span><b>£ 67.18</b></span>
+									</div>
+									<div class="checkout">
+										<a href="my-account.html">
+											<span>checkout
+												<i class="fa fa-angle-right" aria-hidden="true"></i></span>
+										</a>
+									</div>
+								</div>
+							</div>	
+						</div>
+						<div class="col-md-4 col-sm-6 col-xs-12 visible-xs">
+							<div class="search-block-top">
+								<input class="search-query-top" type="text" value="" placeholder="Search" >
+								<button class="btn btn-default button-search" name="submit_search" type="submit"></button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- mainmenu-area-start -->
+			<div class="main-menu-area hidden-xs hidden-sm">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="main-menu">
+								<nav>
+									<ul>
+										<li>
+											<a href="index.html">home</a>
+											<div class="version">
+												<span>
+													<a href="index.html">Homepage version-1</a>
+
+												</span>
+											</div>
+										</li>
+										<li>
+											<a href="shop.html">furniture</a>
+											<div class="mega-menu">
+												<span>
+													<a class="mega-menu-title" href="my-account.html">Dresses</a>
+													<a href="my-account.html">Cocktail</a>
+													<a href="my-account.html">Day</a>
+													<a href="my-account.html">Evening</a>
+													<a href="my-account.html">Sports</a>
+												</span>
+												<span>
+													<a class="mega-menu-title" href="my-account.html">Shoes</a>
+													<a href="my-account.html">Sports</a>
+													<a href="my-account.html">Run</a>
+													<a href="my-account.html">Sandals</a>
+													<a href="my-account.html">Books</a>
+												</span>
+												<span>
+													<a class="mega-menu-title" href="my-account.html">Handbags</a>
+													<a href="my-account.html">Blazers</a>
+													<a href="my-account.html">Table</a>
+													<a href="my-account.html">Coats</a>
+													<a href="my-account.html">Kids</a>
+												</span>
+												<span>
+													<a class="mega-menu-title" href="my-account.html">Clothing</a>
+													<a href="my-account.html">T-shirts</a>
+													<a href="my-account.html">Coats</a>
+													<a href="my-account.html">Jackets</a>
+													<a href="my-account.html">Jeans</a>
+												</span>
+											</div>
+										</li>
+										<li>
+											<a href="shop.html">kitchen & bar</a>
+											<div class="mega-menu sec-mega">
+												<span>
+													<a class="mega-menu-title" href="my-account.html">Bags</a>
+													<a href="my-account.html">Bootees Bags</a>
+													<a href="my-account.html">Blazers</a>
+													<a href="my-account.html">Sweaters</a>
+													<a href="my-account.html">Hoodies</a>
+												</span>
+												<span>
+													<a class="mega-menu-title" href="my-account.html">Tops & Tees</a>
+													<a href="my-account.html">Long Sleeve</a>
+													<a href="my-account.html">Short Sleeve</a>
+													<a href="my-account.html">Polo Short Sleeve</a>
+													<a href="my-account.html">Short Sleeve</a>
+												</span>
+												<span>
+													<a class="mega-menu-title" href="my-account.html">Lingerie</a>
+													<a href="my-account.html">Bands</a>
+													<a href="my-account.html">Furniture</a>
+													<a href="my-account.html">Wedges</a>
+													<a href="my-account.html">Vests</a>
+												</span>
+												<span>
+													<a class="mega-pic" href="my-account.html">
+														<img src="{% static 'img/banner/block-menu.jpg' %}" alt="" />
+													</a>
+												</span>
+											</div>
+										</li>
+										<li>
+											<a href="shop.html">mugs & cups</a>
+											<div class="mega-menu third-mega">
+												<span>
+													<a class="mega-menu-title" href="my-account.html">Footwear Man</a>
+													<a href="my-account.html">Gold Ring</a>
+													<a href="my-account.html">Platinum Rings</a>
+													<a href="my-account.html">Silver Ring</a>
+													<a href="my-account.html">Tungsten Ring</a>
+												</span>
+												<span>
+													<a class="mega-menu-title" href="my-account.html">Footwear Womens</a>
+													<a href="my-account.html">Bands Gold</a>
+													<a href="my-account.html">Platinum Bands</a>
+													<a href="my-account.html">Silver Bands</a>
+													<a href="my-account.html">Tungsten Bands</a>
+												</span>
+											</div>
+										</li>
+										<li>
+											<a href="shop.html">bedding</a>
+										</li>
+										<li>
+											<a href="my-account.html">Pages</a>
+											<div class="version pages">
+												<span>
+													<a href="blog.html">Blog</a>
+													<a href="contact-us.html">Contact Us</a>
+													<a href="checkout.html">Checkout</a>
+													<a href="my-account.html">My account</a>
+													<a href="product-details.html">Product details</a>
+													<a href="shop.html">Shop Page</a>
+													<a href="shopping-cart.html">Shoping Cart</a>
+													<a href="wishlist.html">Wishlist</a>
+													<a href="404.html">404 Error</a>
+												</span>
+											</div>
+										</li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- mainmenu-area-end -->
+			<!-- mobile-menu-area-start -->
+			<div class="mobile-menu-area visible-xs visible-sm">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="mobile_menu">
+								<nav id="mobile_menu_active">
+									<ul>
+										<li><a href="index.html">Home</a>
+											<ul>
+												<li><a href="index.html">Home 1</a></li>
+
+											</ul>
+										</li>
+										<li><a href="shop.html">Furniture</a>
+											<ul>
+												<li><a href="my-account.html">Dresses</a>
+													<ul>
+														<li><a href="my-account.html">Cocktail</a></li>
+														<li><a href="my-account.html">Day</a></li>
+														<li><a href="my-account.html">Evening</a></li>
+														<li><a href="my-account.html">Sports</a></li>
+													</ul>											
+												</li>
+												<li><a href="my-account.html">Shoes</a>
+													<ul>
+														<li><a href="my-account.html">Sports</a></li>
+														<li><a href="my-account.html">Run</a></li>
+														<li><a href="my-account.html">Sandals</a></li>
+														<li><a href="my-account.html">Books</a></li>
+													</ul>											
+												</li>
+												<li><a href="my-account.html">Handbags</a>
+													<ul>
+														<li><a href="my-account.html">Blazers</a></li>
+														<li><a href="my-account.html">Table</a></li>
+														<li><a href="my-account.html">Coats</a></li>
+														<li><a href="my-account.html">Kids</a></li>
+													</ul>											
+												</li>
+												<li><a href="my-account.html">Clothing</a>
+													<ul>
+														<li><a href="my-account.html">T-shirt</a></li>
+														<li><a href="my-account.html">Coats</a></li>
+														<li><a href="my-account.html">jackets</a></li>
+														<li><a href="my-account.html">Jeans</a></li>
+													</ul>											
+												</li>
+											</ul>
+										</li>
+										<li><a href="shop.html">Kitchen & Bar</a>
+											<ul>
+												<li><a href="my-account.html">Bags</a>
+													<ul>
+														<li><a href="my-account.html">Boots Bags</a></li>
+														<li><a href="my-account.html">Blazers</a></li>
+														<li><a href="my-account.html">Sweaters</a></li>
+														<li><a href="my-account.html">Hoodies</a></li>
+													</ul>											
+												</li>
+												<li><a href="my-account.html">Tops & Tees</a>
+													<ul>
+														<li><a href="my-account.html">Long Sleeve</a></li>
+														<li><a href="my-account.html">Short sleeves</a></li>
+														<li><a href="my-account.html">Polo short sleeves</a></li>
+														<li><a href="my-account.html">Short Sleevs</a></li>
+													</ul>											
+												</li>
+												<li><a href="my-account.html">Lingerie</a>
+													<ul>
+														<li><a href="my-account.html">Bands</a></li>
+														<li><a href="my-account.html">Furniture</a></li>
+														<li><a href="my-account.html">Wedges</a></li>
+														<li><a href="my-account.html">Vests</a></li>
+													</ul>											
+												</li>
+											</ul>
+										</li>
+										<li><a href="shop.html">Mugs & Cups</a>
+											<ul>
+												<li><a href="my-account.html">Footwear Man</a>
+													<ul>
+														<li><a href="my-account.html">Gold Ring</a></li>
+														<li><a href="my-account.html">Platinum Rings</a></li>
+														<li><a href="my-account.html">Silver Ring</a></li>
+														<li><a href="my-account.html">Tungsten Ring</a></li>
+													</ul>											
+												</li>
+												<li><a href="my-account.html">Footwear Womens</a>
+													<ul>
+														<li><a href="my-account.html">Bands Gold</a></li>
+														<li><a href="my-account.html">Platinum Bands</a></li>
+														<li><a href="my-account.html">Silver Bands</a></li>
+														<li><a href="my-account.html">Tungsten Bands</a></li>
+													</ul>											
+												</li>
+											</ul>
+										</li>
+										<li><a href="shop.html">Bedding</a></li>
+										<li><a href="my-account.html">Pages</a>
+											<ul>
+												<li><a href="blog.html">Blog</a></li>
+												<li><a href="contact-us.html">Contact Us</a></li>
+												<li><a href="checkout.html">Checkout</a></li>
+												<li><a href="my-account.html">My account</a></li>
+												<li><a href="product-details.html">Product details</a></li>
+												<li><a href="shop.html">Shop Page</a></li>
+												<li><a href="shopping-cart.html">Shoping Cart</a></li>
+												<li><a href="wishlist.html">Wishlist</a></li>
+												<li><a href="404.html">404 Error</a></li>
+											</ul>
+										</li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- mobile-menu-area-end -->
+		</header>
+		<!-- header-end -->
+		<!-- my-account-start -->
+		<div class="entry-header-area">
+			<div class="container">
+				<div class="breadcrumb-area">
+					<div class="breadcrumb">
+						<a href="index.html" title="Return to Home">
+							<i class="icon-home"></i>
+						</a>
+						<span class="navigation-pipe">></span>
+						<span class="navigation-page">
+							My Account
+						</span>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="entry-header">
+							<h1 class="entry-title">My Account</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="my-account-area">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<form action="my-account.html#">
+							<div class="form-fields">
+								<h2>Login</h2>
+								<p>
+									<label>Username or email address</label>
+									<span class="required">*</span>
+									<input type="text" />
+								</p>
+								<p>
+									<label>password</label>
+									<span class="required">*</span>
+									<input type="text" />
+								</p>
+							</div>
+							<div class="form-action">
+								<p class="lost-password">
+									<a href="my-account.html">Lost your password?</a>
+								</p>
+								<input type="submit" value="Login" />
+								<label>
+									<input type="checkbox" />
+									Remember me 
+								</label>
+							</div>
+						</form>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<form action="my-account.html">
+							<div class="form-fields">
+								<h2>Register</h2>
+								<p>
+									<label>Email address</label>
+									<span class="required">*</span>
+									<input type="text" />
+								</p>
+								<p>
+									<label>password</label>
+									<span class="required">*</span>
+									<input type="text" />
+								</p>
+							</div>
+							<div class="form-action">
+								<input type="submit" value="Register" />
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- my-account-end -->
+		<!-- brand-area-start -->
+		<div class="brand-area">
+			<div class="container">
+				<div class="row">
+					<div class="brands">
+						<div class="brand-carousel">
+							<div class="col-md-12">
+								<div class="single-brand">
+									<a href="my-account.html">
+										<img src="{% static 'img/brand/1.jpg' %}" alt="" />
+									</a>
+								</div>
+							</div>
+							<div class="col-md-12">
+								<div class="single-brand">
+									<a href="my-account.html">
+										<img src="{% static 'img/brand/2.jpg' %}" alt="" />
+									</a>
+								</div>
+							</div>
+							<div class="col-md-12">
+								<div class="single-brand">
+									<a href="my-account.html">
+										<img src="{% static 'img/brand/3.jpg' %}" alt="" />
+									</a>
+								</div>
+							</div>
+							<div class="col-md-12">
+								<div class="single-brand">
+									<a href="my-account.html">
+										<img src="{% static 'img/brand/4.jpg' %}" alt="" />
+									</a>
+								</div>
+							</div>
+							<div class="col-md-12">
+								<div class="single-brand">
+									<a href="my-account.html">
+										<img src="{% static 'img/brand/5.jpg' %}" alt="" />
+									</a>
+								</div>
+							</div>
+							<div class="col-md-12">
+								<div class="single-brand">
+									<a href="my-account.html">
+										<img src="{% static 'img/brand/6.jpg' %}" alt="" />
+									</a>
+								</div>
+							</div>
+							<div class="col-md-12">
+								<div class="single-brand">
+									<a href="my-account.html">
+										<img src="{% static 'img/brand/7.jpg' %}" alt="" />
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- brand-area-end -->
+		<!-- footer-start -->
+		<footer>
+			<div class="footer-area">
+				<div class="footer-top">
+					<div class="container">
+						<div class="footer-logo">
+							<a href="my-account.html">
+								<img src="{% static 'img/logo-footer.png' %}" alt="" />
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="footer-middle">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-9 col-sm-9 foot-mar">
+								<div class="row">
+									<div class="col-md-4  col-sm-4 col-xs-12">
+										<h4>Shop Location</h4>
+										<div class="footer-contact">
+											<p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+											Duis dignissim erat ut laoreet pharetra....
+											</p>
+											<p class="address add">
+												<span>No. 96, Jecica City, NJ 07305, New York, USA</span>
+											</p>
+											<p class="phone add">
+												<span> +8801973 833508</span>
+											</p>
+											<p class="email add">
+												<a href="my-account.html">admin@bootexperts.com</a>
+											</p>
+										</div>
+									</div>
+									<div class="col-md-4 col-sm-4 col-xs-12">
+										<h4>Information</h4>
+										<ul class="toggle-footer">
+											<li>
+												<a title="Specials" href="my-account.html">Specials</a>
+											</li>
+											<li>
+												<a title="New products" href="my-account.html">New products</a>
+											</li>
+											<li>
+												<a title="Best sellers" href="my-account.html">Best sellers</a>
+											</li>
+											<li>
+												<a title="Our stores" href="my-account.html">Our stores</a>
+											</li>
+											<li>
+												<a title="Contact us" href="my-account.html">Contact us</a>
+											</li>
+											<li>
+												<a title="Sitemap" href="my-account.html">Sitemap</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col-md-4 col-sm-4 col-xs-12">
+										<h4>My account</h4>
+										<ul class="toggle-footer">
+											<li>
+												<a title="My orders" href="my-account.html">My orders</a>
+											</li>
+											<li>
+												<a title="My credit slips" href="my-account.html"> My credit slips</a>
+											</li>
+											<li>
+												<a title="My addresses" href="my-account.html">My addresses</a>
+											</li>
+											<li>
+												<a title="My personal info" href="my-account.html">My personal info</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-3">
+								<div class="newsletter">
+									<h4>Newsletter</h4>
+									<div class="newsletter-content">
+										<form action="http://preview.hasthemes.com/vonia-preview/vonia/method">
+											<input class="newsletter-input" type="text" placeholder="Enter your e-mail" size="18" name="email">
+											<button class="btn btn-default newsletter-button" type="submit">
+												<span class="subscribe">Subscribe</span>
+											</button>
+										</form>
+									</div>
+								</div>
+								<div class="footer-social">
+								 <h3>Follow Us</h3>
+									<a href="my-account.html"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+									<a href="my-account.html"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+									<a href="my-account.html"><i class="fa fa-rss" aria-hidden="true"></i></a>
+									<a href="my-account.html"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+									<a href="my-account.html"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+								</div>
+							</div>
+						</div>
+						<div class="payment">
+							<a href="my-account.html">
+								<img src="{% static 'img/payment.png' %}" alt="" />
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="footer-bottom">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6 col-sm-6 col-xs-12 address">
+								Copyright  © 
+								<a href="http://bootexperts.com">Bootexperts</a>
+								. All Rights Reserved
+							</div>
+							<div class="col-md-6 col-sm-6 col-xs-12 footer-link">
+								<ul>
+									<li>
+										<a href="my-account.html">Customer Service</a>
+									</li>
+									<li>
+										<a href="my-account.html">Secure payment</a>
+									</li>
+									<li>
+										<a href="my-account.html">Term of Use</a>
+									</li>
+									<li>
+										<a href="my-account.html">About us</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer-end -->
+		<!-- all js here -->
+		<!-- jquery latest version -->
+        <script src="{% static 'js/vendor/jquery-1.12.0.min.js' %}"></script>
+		<!-- bootstrap js -->
+        <script src="{% static 'js/bootstrap.min.js' %}"></script>
+		<!--jquery scrollUp js -->
+        <script src="{% static 'js/jquery.scrollUp.js' %}"></script>
+		<!-- owl.carousel js -->
+        <script src="{% static 'js/owl.carousel.min.js' %}"></script>
+		<!-- meanmenu js -->
+        <script src="{% static 'js/jquery.meanmenu.js' %}"></script>
+		<!-- jquery-ui js -->
+        <script src="{% static 'js/jquery-ui.min.js' %}"></script>
+		<!-- wow js -->
+        <script src="{% static 'js/wow.min.js' %}"></script>
+		<!-- nivo slider js -->
+        <script src="{% static 'js/jquery.nivo.slider.pack.js' %}"></script>
+		<!-- countdown js -->
+        <script src="{% static 'js/countdown.js' %}"></script>
+		<!-- plugins js -->
+        <script src="{% static 'js/plugins.js' %}"></script>
+		<!-- main js -->
+        <script src="{% static 'js/main.js' %}"></script>
+    </body>
+</html>

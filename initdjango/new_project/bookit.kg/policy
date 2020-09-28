@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Политика конфиденциальности Bookit.kg</title>
+<meta name="description" content="Политика конфиденциальности сервиса для поиска и покупки авиабилетов Bookit.kg." />
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bookit.kg">
+<meta property="og:title" content="Политика конфиденциальности Bookit.kg">
+<meta property="og:description" content="Политика конфиденциальности сервиса для поиска и покупки авиабилетов Bookit.kg.">
+<meta property="og:url" content="https://bookit.kg/policy">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:image" content="https://bookit.kg/views/images/mobile/share-image.jpg">
+<meta property="og:image:width" content="968">
+<meta property="og:image:height" content="504">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Политика конфиденциальности Bookit.kg">
+<meta name="twitter:description" content="Политика конфиденциальности сервиса для поиска и покупки авиабилетов Bookit.kg.">
+<script src="cdn-cgi/apps/head/LwKvY4TP4LG_EKYfL3ynXWXmdPI.js"></script><link rel="apple-touch-icon" sizes="57x57" href="views/images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="views/images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="views/images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="views/images/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="views/images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="views/images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="views/images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="views/images/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="views/images/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="views/images/favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="https://bookit.kg/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script type="application/ld+json">
+    {
+        "url": "https://bookit.kg/",
+        "sameAs": ["https://www.instagram.com/bookitkg/", "https://www.facebook.com/bookit.kg/"],
+        "name": "Bookit.kg",
+        "logo": "https://bookit.kg/views/images/icons/logo.svg",
+        "@type": "Organization",
+        "@context": "https://schema.org"
+    }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://bookit.kg/",
+                        "name": "Купить авиабилеты"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://bookit.kg/policy",
+                        "name": "Политика конфиденциальности"
+                    }
+                }]
+        }
+    </script>
+</head>
+<body>
+<section class="header-section">
+<div class="container">
+<div class="row pt-1-5">
+<div class="col-lg-2 col-md-2 col-sm-3 col-xs-10"><a class="logotype" href="index.html"><img src="https://bookit.kg/views/images/icons/logo.svg" alt="Bookit"></a></div>
+<div class="col-lg-7 col-md-8 hidden-sm hidden-xs">
+<div class="d-flex">
+<a class="link-item pointer" href="flights/fru">Направления из Бишкека</a>
+<a class="link-item pointer" href="flights/oss">Направления из Оша</a>
+<a class="link-item pointer" href="airlines">Авиакомпании</a>
+
+<a class="link-item pointer" href="schedule">Расписание рейсов</a>
+<a class="link-item pointer" href="https://blog.bookit.kg">Блог</a>
+</div>
+</div>
+<div class="col-lg-3 col-md-1 col-sm-8 hidden-xs text-right">
+<div class="d-inline-block text-left"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+<div class="col-sm-1 col-xs-2 hidden-lg hidden-md text-right"><span><img class="menu-icon" id="bar" src="https://bookit.kg/views/images/menu.svg" alt="Menu"></span></div>
+</div>
+</div>
+<div class="nav-header-menu-mobile hidden-md hidden-lg" id="nav-header-menu-mobile">
+<div class="flex-direction-row p-1">
+<a class="d-block p-1" href="flights/fru">Направления из Бишкека</a>
+<a class="d-block p-1" href="flights/oss">Направления из Оша</a>
+<a class="d-block p-1" href="airlines">Авиакомпании</a>
+<a class="d-block p-1" href="payment">Оплата авиабилетов</a> <a class="d-block p-1" href="schedule">Расписание рейсов</a>
+<a class="d-block p-1" href="https://blog.bookit.kg">Блог</a>
+</div>
+<div class="d-inline-block hidden-sm"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+</section>
+<section class="popular-avia">
+<div class="container-fluid posr">
+<div class="container">
+<div class="row">
+<div class="col-xs-12"><h1 class="text-white text-center mb-1">Политика конфиденциальности сервиса Bookit.kg</h1></div>
+</div>
+</div>
+</div>
+</section>
+<section class="payment-method-visa">
+<div class="container margin-top bg-white"><h2 class="bold text-center">Политика конфиденциальности сервиса для поиска и покупки авиабилетов Bookit.kg</h2>
+<div class="hr m-auto"></div>
+<div class="clearfix"></div>
+</div>
+<div class="container"><p>Bookit.kg уделяет большое внимание сохранению конфиденциальности вашей информации при
+совершении покупок через Интернет. Мы прилагаем все возможные усилия по защите информации, которую Вы нам
+предоставляете. Пожалуйста, внимательно прочитайте следующий ниже текст, чтобы получить соответствующую
+информацию о политике конфиденциальности личных данных нашей компании. Пользуясь нашим сайтом Вы автоматически
+соглашаетесь со всем, что указано в данном разделе:</p>
+<ul class="pl-16">
+<li>Какую мы собираем информацию</li>
+<li>Как мы используем предоставленную вами информацию</li>
+<li>С кем мы делимся вашей информацией</li>
+<li>Защита информации</li>
+<li>Дети</li>
+<li>Другие сайты</li>
+<li>Изменение данной политики конфиденциальности</li>
+<li>Свяжитесь с нами</li>
+</ul>
+<h3 class="text-primary f18">Какую мы собираем информацию</h3>
+<p>Общее. Мы можем собирать и хранить всю информацию, которую Вы вводите на нашем сайте или которую Вы
+предоставляете нам каким-либо другим способом. Это может быть информация идентифицирующая вас ("личные
+данные"), содержащая ваши имя и фамилию, номер телефона, почтовый и электронный адрес (email). Кроме того, в
+случаях покупки, мы храним такие данные как номер вашей пластиковой карты, имя держателя карты и дата
+истечения срока действия карты. Мы также можем попросить вас предоставить информацию о ваших предпочтениях
+во время путешествия, в том числе о предпочитаемом питании во время полета, выборе места в самолете, частоте
+путешествий или информации о ценах гостиниц / автомобилей. Вы можете отказаться от предоставления
+дополнительных данных. Предоставление основной информации, является обязательным условием совершения покупки
+на нашем сайте, для создания профиля на основе наших данных, для участия в опросах или акциях или для того,
+чтобы задать нам какой-либо вопрос, связанный с вашими трансакциями.</p>
+<p>Данные пассажиров. Когда вы совершаете покупку через Bookit.kg, мы сохраняем данные о ваших туристических
+предпочтениях. Ваш профиль обнавляется и сохраняется каждый раз когда вы совершаете новую покупку на сайте
+Bookit.kg. Автоматический сбор информации. Мы автоматически собираем некоторую информацию о вашем
+компьютере, когда вы посещаете Bookit.kg. Например, IP-адрес, данные браузера, которым вы пользуетесь (к
+примеру Internet Explorer, Mozilla Firefox и т.д.) и ваши вэб-запросы. Мы также можем собирать информацию о
+вашей деятельности на нашем сайте, в том числе данные о путешествиях, которые вы ищите или покупаете.
+Основной целью сбора такой информации, является то, что мы пытаемся понять опыт пользователей нашего
+сайта.</p>
+<p>Cookies и другая техническая информация. Каждый раз, когда вы посещаете Bookit.kg, мы отправляем на ваш
+компьютер один файл " cookie". Cookie – это небольшой файл, который содержит строку символов и служит
+уникальным идентификатором вашего браузера, а также сохраняет данные для использования сайта на вашем
+жестком диске. Это позволяет нам распознавать ваш компьютер, когда вы будете пользоваться нашим сайтом в
+следующий раз или совершать бронирование. Имейте ввиду, что все данные содержащиеся в файлах cookies
+зашифрованы в целях безопасности. Вы всегда можете отказаться от получения файлов cookies от Bookit.kg,
+однако в этом случае существует вероятность, что вы не сможете получить доступ к некоторым инструментам
+Bookit.kg или не сможете успешно завершить вашу покупку.</p>
+<h3 class="text-primary f18">Как мы используем предоставленную вами информацию</h3>
+<p>Ваши личные данные, такие как имя держателя пластиковой карты, номер пластиковой карты, дата истечения срока
+действия пластиковой карты и код CVV, необходимы для завершения процесса бронирования через наш сайт. Мы
+также можем требовать предоставления дополнительной информации, для того чтобы предоставить вам продукты и
+услуги, которые вас интересуют, отправить вам подтверждение бронирования, преступить к требуемым вами
+изменениям, ответить на ваши вопросы и комментарии. Также мы можем сообщать вам о наших акциях и
+предложениях, которые могут вас интересовать на базе нашего общения, или на базе информации получаемой
+автоматически при использовании вашего компьютера. Конечная цель заключается в улучшении продуктов и услуг,
+предоставляемых на нашем сайте, основанном на ваших наблюдениях.</p>
+<h3 class="text-primary f18">С кем мы делимся вашей информацией</h3>
+<p>Bookit.kg может передавать вашу персональную информацию следующим третьим организациям и лицам:</p>
+<ul class="pl-16">
+<li>Поставщикам, таким как авиакомпании, которые выполняют ваши заказы по средствам нашего сайта. Мы не
+сообщаем ваш электронный адрес данным поставщикам, за исключением тех случаев, когда это требуется для
+совершения бронирования или для того чтобы они могли связаться с вами в случае возникновения какой-либо
+проблемы. В основном, предоставление информации поставщикам ограничивается самым необходимым для
+совершения успешного бронирования. Также данные поставщики могут связаться с вами для того, чтобы
+получить обновленную информацию или для того, чтобы помочь вам с вашим путешествием.
+</li>
+ <li>Мы также можем передавать ваши личные данные с третьими лицами или организациями, в том числе
+рекламодателям и инвесторам. Например, мы можем сообщить нашим рекламодателям количество посещений
+нашего сайта или наиболее популярные маршруты путешествий. Данная информация не содержит никаких личных
+данных и используется для исследовательских целей.
+</li>
+</ul>
+<h3 class="text-primary f18">Защита информации</h3>
+<p>Как было сказано ранее, защита ваших личных данных стоит на первом месте в приоритетах Bookit.kg и мы
+ручаемся за безопасность данных, которые собираем. Мы применяем самые разнообразные технологии и процедуры,
+помогающие защитить личные сведения от несанкционированного доступа, использования и разглашения. Так,
+например, только уполномоченные сотрудники могут иметь доступ к вашим личным данным. Кроме того, мы
+используем шифрование при передаче личных данных с вашего компьютера нашему, и используем firewalls и
+системы обнаружения вторжений для предотвращения несанкционированного доступа к вашей информации.</p>
+<h3 class="text-primary f18">Дети</h3>
+<p>Bookit.kg не вступает ни в какие операции с детьми. В случае если мы узнаем, что пользователю меньше 18 лет,
+то предоставленные им личные данные будут использованы только для того, чтобы сообщить ребенку о
+необходимости родительского разрешения для совершения покупки.</p>
+<h3 class="text-primary f18">Другие сайты</h3>
+<p>Если на какой-либо из страниц Bookit.kg присутствуют ссылки на другие сайты, то данная политика
+конфиденциальности не распространяется на такие сайты.</p>
+<h3 class="text-primary f18">Свяжитесь с нами</h3>
+<p>Если у вас возникли какие-либо вопросы связанные с вышеприведенным вы можете связаться с нами по телефону
++996(312)671-200</p>
+</div>
+</section>
+<section class="simple-purchase">
+<div class="container-fluid">
+<div class="container"><h2 class="text-white mb-2">Политика конфиденциальности сервиса Bookit.kg</h2>
+<p class="text-white f18">Ознакомьтесь с политикой конфиденциальности сервиса для поиска авиабилетов Bookit.kg. Выше описаны основные моменты, такие как: какую информацию мы храним, как мы ее используем и с кем делимся этой информацией.
+</p>
+<div><a class="btn btn-secondary px-1" href="index.html"><span class="bold">Купить билет</span><span class="angle">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 9 15.6" style="enable-background:new 0 0 9 15.6;" xml:space="preserve">
+<style type="text/css">
+                .st0 {
+                    fill: #FFF;
+                }
+              </style>
+<path class="st0" d="M1,15.6c-0.3,0-0.5-0.1-0.7-0.3c-0.4-0.4-0.4-1,0-1.4l5.9-6.1l-5.9-6c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.4,0                                L9,7.7l-7.2,7.5C1.5,15.5,1.3,15.6,1,15.6z"></path>
+</svg></span></a></div>
+</div>
+</div>
+</section>
+<div class="bg-dark">
+<div class="container py-2 text-white">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="rules">Правила и условия</a></li>
+<li class="pb-1"><a href="policy">Политика конфиденциальности</a></li>
+<li class="pb-1"><a href="payment">Оплата авиабилетов</a></li>
+<li class="pb-1"><a href="garant">Возвраты авиабилетов и гарантии</a></li> <li class="pb-1"><a href="visa">Визовая справка</a></li>
+<li class="pb-1"><a href="oferta">Оферта</a></li>
+<li class="pb-1"><a href="faq">Вопрос - Ответ</a></li> <li class="pb-1"><a href="become-a-partner">Стать партнером</a></li> </ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="index.html">Главная</a></li>
+<li class="pb-1"><a href="flights/fru">Направления из Бишкека</a></li>
+<li class="pb-1"><a href="flights/oss">Направления из Оша</a></li>
+<li class="pb-1"><a href="airlines">Авиакомпании</a></li>
+<li class="pb-1"><a href="schedule">Расписание рейсов</a></li>
+<li class="pb-1"><a href="https://blog.bookit.kg">Блог</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1 bold">Контакты</li>
+<li class="pb-1"><a href="tel:+996553080080">+996 (553) 080-080</a></li>
+
+<li class="pb-1">пр. Чингиза Айтматова 73/1</li>
+<li class="pb-1"><a href="cdn-cgi/l/email-protection#f59c9b939ab5979a9a9e9c81db9e92">info<span class="domain">bookit.kg</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-white-line"></div>
+<div class="container pb-1">
+<div class="p-1 text-center text-white"><span>Bookit © 2020 — дешевые авиабилеты</span></div>
+</div>
+</div>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="8676ee8841e5a9aa157d096b-text/javascript">(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })
+        
+        (window, document, 'script', 'dataLayer', 'GTM-NS4CPS5');
+    </script>
+
+
+
+
+<script type="8676ee8841e5a9aa157d096b-text/javascript">
+    function jivo() {
+        var widget_id = 'pKcYKXQUIg';
+        var d = document;
+        var w = window;
+
+        function l() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.async = true;
+            s.src = '//code.jivosite.com/script/widget/' + widget_id;
+            var sc = document.getElementsByTagName('script')[0];
+            if (sc) sc.parentNode.insertBefore(s, sc);
+            else d.documentElement.firstChild.appendChild(s);
+        }
+
+        if (d.readyState === 'complete') {
+            l();
+        } else {
+            if (w.attachEvent) {
+                w.attachEvent('onload', l);
+            } else {
+                w.addEventListener('load', l, false);
+            }
+        }
+    }
+
+    setTimeout(jivo, 1000);
+</script>
+
+<link href="https://bookit.kg/views/common.min.css?v=20200327" rel="stylesheet" type="text/css">
+<script src="https://bookit.kg/views/static/js/jquery.min.js?v=20200327" type="8676ee8841e5a9aa157d096b-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/bootstrap.js?v=20200327" type="8676ee8841e5a9aa157d096b-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/jquery.ddslick.min.js?v=20200327" type="8676ee8841e5a9aa157d096b-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/common.js?v=20200327" type="8676ee8841e5a9aa157d096b-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="8676ee8841e5a9aa157d096b-|49" defer=""></script></body>
+</html>

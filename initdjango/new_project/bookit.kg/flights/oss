@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Популярные направления перелетов из Оша на Bookit.kg</title>
+<meta name="description" content="Поиск и покупка выгодных авиабилетов в любых направлениях из Оша на Bookit.kg" />
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bookit.kg">
+<meta property="og:title" content="Популярные направления перелетов из Оша на Bookit.kg">
+<meta property="og:description" content="Поиск и покупка выгодных авиабилетов в любых направлениях из Оша на Bookit.kg">
+<meta property="og:url" content="https://bookit.kg/flights/oss">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:image" content="https://bookit.kg/views/images/mobile/share-image.jpg">
+<meta property="og:image:width" content="968">
+<meta property="og:image:height" content="504">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Популярные направления перелетов из Оша на Bookit.kg">
+<meta name="twitter:description" content="Поиск и покупка выгодных авиабилетов в любых направлениях из Оша на Bookit.kg">
+<script src="../cdn-cgi/apps/head/LwKvY4TP4LG_EKYfL3ynXWXmdPI.js"></script><link rel="apple-touch-icon" sizes="57x57" href="../views/images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../views/images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../views/images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../views/images/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../views/images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../views/images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../views/images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../views/images/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../views/images/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="../views/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="../views/images/favicon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="../views/images/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="../views/images/favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="../views/images/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="../manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="https://bookit.kg/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script type="application/ld+json">
+    {
+        "url": "https://bookit.kg/",
+        "sameAs": ["https://www.instagram.com/bookitkg/", "https://www.facebook.com/bookit.kg/"],
+        "name": "Bookit.kg",
+        "logo": "https://bookit.kg/views/images/icons/logo.svg",
+        "@type": "Organization",
+        "@context": "https://schema.org"
+    }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://bookit.kg/",
+                        "name": "Купить авиабилеты"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://bookit.kg/flights/oss",
+                        "name": "из Оша"
+                    }
+                }]
+        }
+    </script>
+</head>
+<body>
+<section class="header-section">
+<div class="container">
+<div class="row pt-1-5">
+<div class="col-lg-2 col-md-2 col-sm-3 col-xs-10"><a class="logotype" href="../index.html"><img src="https://bookit.kg/views/images/icons/logo.svg" alt="Bookit"></a></div>
+<div class="col-lg-7 col-md-8 hidden-sm hidden-xs">
+<div class="d-flex">
+<a class="link-item pointer" href="fru">Направления из Бишкека</a>
+<a class="link-item pointer" href="oss">Направления из Оша</a>
+<a class="link-item pointer" href="../airlines">Авиакомпании</a>
+
+<a class="link-item pointer" href="../schedule">Расписание рейсов</a>
+<a class="link-item pointer" href="https://blog.bookit.kg">Блог</a>
+</div>
+</div>
+<div class="col-lg-3 col-md-1 col-sm-8 hidden-xs text-right">
+<div class="d-inline-block text-left"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="../index.html">Купить</a></div>
+</div>
+<div class="col-sm-1 col-xs-2 hidden-lg hidden-md text-right"><span><img class="menu-icon" id="bar" src="https://bookit.kg/views/images/menu.svg" alt="Menu"></span></div>
+</div>
+</div>
+<div class="nav-header-menu-mobile hidden-md hidden-lg" id="nav-header-menu-mobile">
+<div class="flex-direction-row p-1">
+<a class="d-block p-1" href="fru">Направления из Бишкека</a>
+<a class="d-block p-1" href="oss">Направления из Оша</a>
+<a class="d-block p-1" href="../airlines">Авиакомпании</a>
+<a class="d-block p-1" href="../payment">Оплата авиабилетов</a> <a class="d-block p-1" href="../schedule">Расписание рейсов</a>
+<a class="d-block p-1" href="https://blog.bookit.kg">Блог</a>
+</div>
+<div class="d-inline-block hidden-sm"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="../index.html">Купить</a></div>
+</div>
+</section>
+<section class="popular-avia">
+<div class="container-fluid posr">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center text-white">
+<h1 class="mb-1">Популярные направления перелетов<br>
+<span>из
+Оша
+</span>
+</h1>
+<h2>На Bookit.kg вы можете найти и купить дешевые авиабилеты из
+Оша
+в любом направлении
+</h2>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="cards-cities">
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/oss/mow">
+<meta content="Ош - Москва" itemprop="name">
+<meta content="Авиабилет по направлению Ош - Москва по стоимости от 7 629 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/MOW/w200h0_2.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="7629" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Москва</div>
+<div class="text-orange d-inline-block">от 7 629 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/oss/fru">
+<meta content="Ош - Бишкек" itemprop="name">
+<meta content="Авиабилет по направлению Ош - Бишкек по стоимости от 2 100 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/FRU/w200h0_7.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="2100" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Бишкек</div>
+<div class="text-orange d-inline-block">от 2 100 сом</div>
+<div class="text-white d-inline-block float-right">Кыргызстан</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/oss/led">
+<meta content="Ош - Санкт-Петербург" itemprop="name">
+<meta content="Авиабилет по направлению Ош - Санкт-Петербург по стоимости от 11 860 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/LED/w200h0_2.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="11860" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Санкт-Петербург</div>
+<div class="text-orange d-inline-block">от 11 860 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/oss/uus">
+<meta content="Ош - Южно-Сахалинск" itemprop="name">
+<meta content="Авиабилет по направлению Ош - Южно-Сахалинск по стоимости от 23 404 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/UUS/w200h0_2.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="23404" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Южно-Сахалинск</div>
+<div class="text-orange d-inline-block">от 23 404 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/oss/dus">
+<meta content="Ош - Дюссельдорф" itemprop="name">
+<meta content="Авиабилет по направлению Ош - Дюссельдорф по стоимости от 17 004 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/DUS/w200h0_1.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="17004" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Дюссельдорф</div>
+<div class="text-orange d-inline-block">от 17 004 сом</div>
+<div class="text-white d-inline-block float-right">Германия</div>
+</div>
+</div>
+</a>
+
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/oss/ham">
+<meta content="Ош - Гамбург" itemprop="name">
+<meta content="Авиабилет по направлению Ош - Гамбург по стоимости от 22 805 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/HAM/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="22805" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Гамбург</div>
+<div class="text-orange d-inline-block">от 22 805 сом</div>
+<div class="text-white d-inline-block float-right">Германия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/oss/ovb">
+<meta content="Ош - Новосибирск" itemprop="name">
+<meta content="Авиабилет по направлению Ош - Новосибирск по стоимости от 8 501 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/OVB/w200h0_1.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="8501" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Новосибирск</div>
+<div class="text-orange d-inline-block">от 8 501 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/oss/kja">
+<meta content="Ош - Красноярск" itemprop="name">
+<meta content="Авиабилет по направлению Ош - Красноярск по стоимости от 9 285 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/KJA/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="9285" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Красноярск</div>
+<div class="text-orange d-inline-block">от 9 285 сом</div>
+ <div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+
+</section>
+<section class="airline-world">
+<div class="container-fluid">
+<div class="container">
+<h2 class="text-white mb-2">Информация</h2>
+<p class="text-white f18">
+Выше предоставлен список популярных направлений авиаперелетов из
+Оша.
+Выберите необходимый и узнайте подробную информацию об авиакомпаниях, которые совершают перелеты в необходимый город и другую полезную информацию.
+</p>
+</div>
+</div>
+</section>
+<div class="bg-dark">
+<div class="container py-2 text-white">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="../rules">Правила и условия</a></li>
+<li class="pb-1"><a href="../policy">Политика конфиденциальности</a></li>
+<li class="pb-1"><a href="../payment">Оплата авиабилетов</a></li>
+<li class="pb-1"><a href="../garant">Возвраты авиабилетов и гарантии</a></li> <li class="pb-1"><a href="../visa">Визовая справка</a></li>
+<li class="pb-1"><a href="../oferta">Оферта</a></li>
+<li class="pb-1"><a href="../faq">Вопрос - Ответ</a></li> <li class="pb-1"><a href="../become-a-partner">Стать партнером</a></li> </ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="../index.html">Главная</a></li>
+<li class="pb-1"><a href="fru">Направления из Бишкека</a></li>
+<li class="pb-1"><a href="oss">Направления из Оша</a></li>
+<li class="pb-1"><a href="../airlines">Авиакомпании</a></li>
+<li class="pb-1"><a href="../schedule">Расписание рейсов</a></li>
+<li class="pb-1"><a href="https://blog.bookit.kg">Блог</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1 bold">Контакты</li>
+<li class="pb-1"><a href="tel:+996553080080">+996 (553) 080-080</a></li>
+
+<li class="pb-1">пр. Чингиза Айтматова 73/1</li>
+<li class="pb-1"><a href="../cdn-cgi/l/email-protection#2b42454d446b49444440425f05404c">info<span class="domain">bookit.kg</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-white-line"></div>
+<div class="container pb-1">
+<div class="p-1 text-center text-white"><span>Bookit © 2020 — дешевые авиабилеты</span></div>
+</div>
+</div>
+<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="2e0a426727aae33d2e4381d0-text/javascript">(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })
+        
+        (window, document, 'script', 'dataLayer', 'GTM-NS4CPS5');
+    </script>
+
+
+
+
+<script type="2e0a426727aae33d2e4381d0-text/javascript">
+    function jivo() {
+        var widget_id = 'pKcYKXQUIg';
+        var d = document;
+        var w = window;
+
+        function l() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.async = true;
+            s.src = '//code.jivosite.com/script/widget/' + widget_id;
+            var sc = document.getElementsByTagName('script')[0];
+            if (sc) sc.parentNode.insertBefore(s, sc);
+            else d.documentElement.firstChild.appendChild(s);
+        }
+
+        if (d.readyState === 'complete') {
+            l();
+        } else {
+            if (w.attachEvent) {
+                w.attachEvent('onload', l);
+            } else {
+                w.addEventListener('load', l, false);
+            }
+        }
+    }
+
+    setTimeout(jivo, 1000);
+</script>
+
+<link href="https://bookit.kg/views/common.min.css?v=20200403" rel="stylesheet" type="text/css">
+<script src="https://bookit.kg/views/static/js/jquery.min.js?v=20200403" type="2e0a426727aae33d2e4381d0-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/bootstrap.js?v=20200403" type="2e0a426727aae33d2e4381d0-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/jquery.ddslick.min.js?v=20200403" type="2e0a426727aae33d2e4381d0-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/common.js?v=20200403" type="2e0a426727aae33d2e4381d0-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="2e0a426727aae33d2e4381d0-|49" defer=""></script></body>
+</html>

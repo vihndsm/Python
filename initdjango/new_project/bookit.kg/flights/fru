@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Популярные направления перелетов из Бишкека на Bookit.kg</title>
+<meta name="description" content="Поиск и покупка выгодных авиабилетов в любых направлениях из Бишкека на Bookit.kg" />
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bookit.kg">
+<meta property="og:title" content="Популярные направления перелетов из Бишкека на Bookit.kg">
+<meta property="og:description" content="Поиск и покупка выгодных авиабилетов в любых направлениях из Бишкека на Bookit.kg">
+<meta property="og:url" content="https://bookit.kg/flights/fru">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:image" content="https://bookit.kg/views/images/mobile/share-image.jpg">
+<meta property="og:image:width" content="968">
+<meta property="og:image:height" content="504">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Популярные направления перелетов из Бишкека на Bookit.kg">
+<meta name="twitter:description" content="Поиск и покупка выгодных авиабилетов в любых направлениях из Бишкека на Bookit.kg">
+<script src="../cdn-cgi/apps/head/LwKvY4TP4LG_EKYfL3ynXWXmdPI.js"></script><link rel="apple-touch-icon" sizes="57x57" href="../views/images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../views/images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../views/images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../views/images/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../views/images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../views/images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../views/images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../views/images/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../views/images/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="../views/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="../views/images/favicon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="../views/images/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="../views/images/favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="../views/images/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="../manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="https://bookit.kg/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script type="application/ld+json">
+    {
+        "url": "https://bookit.kg/",
+        "sameAs": ["https://www.instagram.com/bookitkg/", "https://www.facebook.com/bookit.kg/"],
+        "name": "Bookit.kg",
+        "logo": "https://bookit.kg/views/images/icons/logo.svg",
+        "@type": "Organization",
+        "@context": "https://schema.org"
+    }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://bookit.kg/",
+                        "name": "Купить авиабилеты"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://bookit.kg/flights/fru",
+                        "name": "из Бишкека"
+                    }
+                }]
+        }
+    </script>
+</head>
+<body>
+<section class="header-section">
+<div class="container">
+<div class="row pt-1-5">
+<div class="col-lg-2 col-md-2 col-sm-3 col-xs-10"><a class="logotype" href="../index.html"><img src="https://bookit.kg/views/images/icons/logo.svg" alt="Bookit"></a></div>
+<div class="col-lg-7 col-md-8 hidden-sm hidden-xs">
+<div class="d-flex">
+<a class="link-item pointer" href="fru">Направления из Бишкека</a>
+<a class="link-item pointer" href="oss">Направления из Оша</a>
+<a class="link-item pointer" href="../airlines">Авиакомпании</a>
+
+<a class="link-item pointer" href="../schedule">Расписание рейсов</a>
+<a class="link-item pointer" href="https://blog.bookit.kg">Блог</a>
+</div>
+</div>
+<div class="col-lg-3 col-md-1 col-sm-8 hidden-xs text-right">
+<div class="d-inline-block text-left"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="../index.html">Купить</a></div>
+</div>
+<div class="col-sm-1 col-xs-2 hidden-lg hidden-md text-right"><span><img class="menu-icon" id="bar" src="https://bookit.kg/views/images/menu.svg" alt="Menu"></span></div>
+</div>
+</div>
+<div class="nav-header-menu-mobile hidden-md hidden-lg" id="nav-header-menu-mobile">
+<div class="flex-direction-row p-1">
+<a class="d-block p-1" href="fru">Направления из Бишкека</a>
+<a class="d-block p-1" href="oss">Направления из Оша</a>
+<a class="d-block p-1" href="../airlines">Авиакомпании</a>
+<a class="d-block p-1" href="../payment">Оплата авиабилетов</a> <a class="d-block p-1" href="../schedule">Расписание рейсов</a>
+<a class="d-block p-1" href="https://blog.bookit.kg">Блог</a>
+</div>
+<div class="d-inline-block hidden-sm"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="../index.html">Купить</a></div>
+</div>
+</section>
+<section class="popular-avia">
+<div class="container-fluid posr">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center text-white">
+<h1 class="mb-1">Популярные направления перелетов<br>
+<span>из
+Бишкека
+</span>
+</h1>
+<h2>На Bookit.kg вы можете найти и купить дешевые авиабилеты из
+Бишкека
+в любом направлении
+</h2>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="cards-cities">
+
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/mow">
+<meta content="Бишкек - Москва" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Москва по стоимости от 6 648 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/MOW/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="6648" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Москва</div>
+<div class="text-orange d-inline-block">от 6 648 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/ist">
+<meta content="Бишкек - Стамбул" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Стамбул по стоимости от 10 024 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/IST/w200h0_3.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="10024" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Стамбул</div>
+<div class="text-orange d-inline-block">от 10 024 сом</div>
+<div class="text-white d-inline-block float-right">Турция</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/ovb">
+<meta content="Бишкек - Новосибирск" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Новосибирск по стоимости от 6 665 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/OVB/w200h0_2.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="6665" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+ <div class="text-white w-90 bold">Новосибирск</div>
+<div class="text-orange d-inline-block">от 6 665 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/ayt">
+<meta content="Бишкек - Анталия" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Анталия по стоимости от 25 386 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/AYT/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="25386" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Анталия</div>
+<div class="text-orange d-inline-block">от 25 386 сом</div>
+<div class="text-white d-inline-block float-right">Турция</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/voz">
+<meta content="Бишкек - Воронеж" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Воронеж по стоимости от 10 080 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/VOZ/w200h0_1.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="10080" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Воронеж</div>
+<div class="text-orange d-inline-block">от 10 080 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/haj">
+<meta content="Бишкек - Ганновер" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Ганновер по стоимости от 22 948 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/HAJ/w200h0_1.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="22948" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Ганновер</div>
+<div class="text-orange d-inline-block">от 22 948 сом</div>
+<div class="text-white d-inline-block float-right">Германия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/kja">
+<meta content="Бишкек - Красноярск" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Красноярск по стоимости от 8 315 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/KJA/w200h0_2.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="8315" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Красноярск</div>
+<div class="text-orange d-inline-block">от 8 315 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/nyc">
+<meta content="Бишкек - Нью-Йорк" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Нью-Йорк по стоимости от 26 463 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/NYC/w200h0_1.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="26463" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Нью-Йорк</div>
+<div class="text-orange d-inline-block">от 26 463 сом</div>
+<div class="text-white d-inline-block float-right">США</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/oss">
+<meta content="Бишкек - Ош" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Ош по стоимости от 2 100 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/OSS/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="2100" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Ош</div>
+<div class="text-orange d-inline-block">от 2 100 сом</div>
+<div class="text-white d-inline-block float-right">Кыргызстан</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/del">
+<meta content="Бишкек - Дели" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Дели по стоимости от 24 440 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/DEL/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="24440" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Дели</div>
+<div class="text-orange d-inline-block">от 24 440 сом</div>
+<div class="text-white d-inline-block float-right">Индия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/kgd">
+<meta content="Бишкек - Калининград" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Калининград по стоимости от 13 756 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/KGD/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="13756" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Калининград</div>
+<div class="text-orange d-inline-block">от 13 756 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/led">
+<meta content="Бишкек - Санкт-Петербург" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Санкт-Петербург по стоимости от 11 566 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/LED/w200h0_2.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="11566" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Санкт-Петербург</div>
+<div class="text-orange d-inline-block">от 11 566 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/rov">
+<meta content="Бишкек - Ростов-на-Дону" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Ростов-на-Дону по стоимости от 7 953 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/ROV/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="7953" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Ростов-на-Дону</div>
+<div class="text-orange d-inline-block">от 7 953 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/ham">
+<meta content="Бишкек - Гамбург" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Гамбург по стоимости от 16 543 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/HAM/w200h0_1.jpg')"></div>
+<div class="owerley-text d-flex">
+ <div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="16543" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Гамбург</div>
+<div class="text-orange d-inline-block">от 16 543 сом</div>
+<div class="text-white d-inline-block float-right">Германия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/krr">
+<meta content="Бишкек - Краснодар" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Краснодар по стоимости от 14 118 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/KRR/w200h0_1.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="14118" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Краснодар</div>
+<div class="text-orange d-inline-block">от 14 118 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/muc">
+<meta content="Бишкек - Мюнхен" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Мюнхен по стоимости от 19 771 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/MUC/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="19771" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Мюнхен</div>
+<div class="text-orange d-inline-block">от 19 771 сом</div>
+<div class="text-white d-inline-block float-right">Германия</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/sel">
+<meta content="Бишкек - Сеул" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Сеул по стоимости от 21 776 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/SEL/w200h0_1.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="21776" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Сеул</div>
+<div class="text-orange d-inline-block">от 21 776 сом</div>
+<div class="text-white d-inline-block float-right">Южная Корея</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/kzn">
+<meta content="Бишкек - Казань" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Казань по стоимости от 23 426 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/KZN/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="23426" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Казань</div>
+<div class="text-orange d-inline-block">от 23 426 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/nsk">
+<meta content="Бишкек - Норильск" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Норильск по стоимости от 19 368 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/NSK/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="19368" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Норильск</div>
+<div class="text-orange d-inline-block">от 19 368 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/tas">
+<meta content="Бишкек - Ташкент" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Ташкент по стоимости от 7 334 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/TAS/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="7334" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Ташкент</div>
+<div class="text-orange d-inline-block">от 7 334 сом</div>
+<div class="text-white d-inline-block float-right">Узбекистан</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/fra">
+<meta content="Бишкек - Франкфурт-на-Майне" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Франкфурт-на-Майне по стоимости от 18 575 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/FRA/w200h0_0.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="18575" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Франкфурт-на-Майне</div>
+<div class="text-orange d-inline-block">от 18 575 сом</div>
+<div class="text-white d-inline-block float-right">Германия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/nue">
+<meta content="Бишкек - Нюремберг" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Нюремберг по стоимости от 17 937 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/default/w200h0_2.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="17937" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Нюремберг</div>
+<div class="text-orange d-inline-block">от 17 937 сом</div>
+<div class="text-white d-inline-block float-right">Германия</div>
+</div>
+</div>
+</a>
+<a itemscope itemtype="https://schema.org/Product" class="card-airlines f-gr-1 posr mb-1" href="https://bookit.kg/flight/fru/pkc">
+<meta content="Бишкек - Петропавловск-Камчатский" itemprop="name">
+<meta content="Авиабилет по направлению Бишкек - Петропавловск-Камчатский по стоимости от 26 762 сом" itemprop="description">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/cities/PKC/w200h0_2.jpg')"></div>
+<div class="owerley-text d-flex">
+<div class="f-gr-1"></div>
+<div class="footer-owerley p-1 f18" itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
+<meta content="26762" itemprop="lowPrice">
+<meta content="KGS" itemprop="priceCurrency">
+<div class="text-white w-90 bold">Петропавловск-Камчатский</div>
+<div class="text-orange d-inline-block">от 26 762 сом</div>
+<div class="text-white d-inline-block float-right">Россия</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+
+</section>
+<section class="airline-world">
+<div class="container-fluid">
+<div class="container">
+<h2 class="text-white mb-2">Информация</h2>
+<p class="text-white f18">
+Выше предоставлен список популярных направлений авиаперелетов из
+Бишкека.
+Выберите необходимый и узнайте подробную информацию об авиакомпаниях, которые совершают перелеты в необходимый город и другую полезную информацию.
+</p>
+</div>
+</div>
+</section>
+<div class="bg-dark">
+<div class="container py-2 text-white">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+ <ul class="list-unstyled">
+<li class="pb-1"><a href="../rules">Правила и условия</a></li>
+<li class="pb-1"><a href="../policy">Политика конфиденциальности</a></li>
+<li class="pb-1"><a href="../payment">Оплата авиабилетов</a></li>
+<li class="pb-1"><a href="../garant">Возвраты авиабилетов и гарантии</a></li> <li class="pb-1"><a href="../visa">Визовая справка</a></li>
+<li class="pb-1"><a href="../oferta">Оферта</a></li>
+<li class="pb-1"><a href="../faq">Вопрос - Ответ</a></li> <li class="pb-1"><a href="../become-a-partner">Стать партнером</a></li> </ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="../index.html">Главная</a></li>
+<li class="pb-1"><a href="fru">Направления из Бишкека</a></li>
+<li class="pb-1"><a href="oss">Направления из Оша</a></li>
+<li class="pb-1"><a href="../airlines">Авиакомпании</a></li>
+<li class="pb-1"><a href="../schedule">Расписание рейсов</a></li>
+<li class="pb-1"><a href="https://blog.bookit.kg">Блог</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1 bold">Контакты</li>
+<li class="pb-1"><a href="tel:+996553080080">+996 (553) 080-080</a></li>
+
+<li class="pb-1">пр. Чингиза Айтматова 73/1</li>
+<li class="pb-1"><a href="../cdn-cgi/l/email-protection#88e1e6eee7c8eae7e7e3e1fca6e3ef">info<span class="domain">bookit.kg</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-white-line"></div>
+<div class="container pb-1">
+<div class="p-1 text-center text-white"><span>Bookit © 2020 — дешевые авиабилеты</span></div>
+</div>
+</div>
+<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="00622a67c83e88ae8573eb24-text/javascript">(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })
+        
+        (window, document, 'script', 'dataLayer', 'GTM-NS4CPS5');
+    </script>
+
+
+
+
+<script type="00622a67c83e88ae8573eb24-text/javascript">
+    function jivo() {
+        var widget_id = 'pKcYKXQUIg';
+        var d = document;
+        var w = window;
+
+        function l() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.async = true;
+            s.src = '//code.jivosite.com/script/widget/' + widget_id;
+            var sc = document.getElementsByTagName('script')[0];
+            if (sc) sc.parentNode.insertBefore(s, sc);
+            else d.documentElement.firstChild.appendChild(s);
+        }
+
+        if (d.readyState === 'complete') {
+            l();
+        } else {
+            if (w.attachEvent) {
+                w.attachEvent('onload', l);
+            } else {
+                w.addEventListener('load', l, false);
+            }
+        }
+    }
+
+    setTimeout(jivo, 1000);
+</script>
+
+<link href="https://bookit.kg/views/common.min.css?v=20200403" rel="stylesheet" type="text/css">
+<script src="https://bookit.kg/views/static/js/jquery.min.js?v=20200403" type="00622a67c83e88ae8573eb24-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/bootstrap.js?v=20200403" type="00622a67c83e88ae8573eb24-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/jquery.ddslick.min.js?v=20200403" type="00622a67c83e88ae8573eb24-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/common.js?v=20200403" type="00622a67c83e88ae8573eb24-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="00622a67c83e88ae8573eb24-|49" defer=""></script></body>
+</html>

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Визовая справка для покупки авиабилетов заграницу на Bookit.kg</title>
+<meta name="description" content="Справка о визе перед покупкой авиабилетов на Bookit.kg. Ознакомьтесь с информацией на нашем сайте." />
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bookit.kg">
+<meta property="og:title" content="Визовая справка для покупки авиабилетов заграницу на Bookit.kg">
+<meta property="og:description" content="Справка о визе перед покупкой авиабилетов на Bookit.kg. Ознакомьтесь с информацией на нашем сайте.">
+<meta property="og:url" content="https://bookit.kg/visa">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:image" content="https://bookit.kg/views/images/mobile/share-image.jpg">
+<meta property="og:image:width" content="968">
+<meta property="og:image:height" content="504">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Визовая справка для покупки авиабилетов заграницу на Bookit.kg">
+<meta name="twitter:description" content="Справка о визе перед покупкой авиабилетов на Bookit.kg. Ознакомьтесь с информацией на нашем сайте.">
+<script src="cdn-cgi/apps/head/LwKvY4TP4LG_EKYfL3ynXWXmdPI.js"></script><link rel="apple-touch-icon" sizes="57x57" href="views/images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="views/images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="views/images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="views/images/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="views/images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="views/images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="views/images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="views/images/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="views/images/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="views/images/favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="https://bookit.kg/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script type="application/ld+json">
+    {
+        "url": "https://bookit.kg/",
+        "sameAs": ["https://www.instagram.com/bookitkg/", "https://www.facebook.com/bookit.kg/"],
+        "name": "Bookit.kg",
+        "logo": "https://bookit.kg/views/images/icons/logo.svg",
+        "@type": "Organization",
+        "@context": "https://schema.org"
+    }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://bookit.kg/",
+                        "name": "Купить авиабилеты"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://bookit.kg/visa",
+                        "name": "Визовая справка"
+                    }
+                }]
+        }
+    </script>
+</head>
+<body>
+<section class="header-section">
+<div class="container">
+<div class="row pt-1-5">
+<div class="col-lg-2 col-md-2 col-sm-3 col-xs-10"><a class="logotype" href="index.html"><img src="https://bookit.kg/views/images/icons/logo.svg" alt="Bookit"></a></div>
+<div class="col-lg-7 col-md-8 hidden-sm hidden-xs">
+<div class="d-flex">
+<a class="link-item pointer" href="flights/fru">Направления из Бишкека</a>
+<a class="link-item pointer" href="flights/oss">Направления из Оша</a>
+<a class="link-item pointer" href="airlines">Авиакомпании</a>
+
+<a class="link-item pointer" href="schedule">Расписание рейсов</a>
+<a class="link-item pointer" href="https://blog.bookit.kg">Блог</a>
+</div>
+</div>
+<div class="col-lg-3 col-md-1 col-sm-8 hidden-xs text-right">
+<div class="d-inline-block text-left"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+<div class="col-sm-1 col-xs-2 hidden-lg hidden-md text-right"><span><img class="menu-icon" id="bar" src="https://bookit.kg/views/images/menu.svg" alt="Menu"></span></div>
+</div>
+</div>
+<div class="nav-header-menu-mobile hidden-md hidden-lg" id="nav-header-menu-mobile">
+<div class="flex-direction-row p-1">
+<a class="d-block p-1" href="flights/fru">Направления из Бишкека</a>
+<a class="d-block p-1" href="flights/oss">Направления из Оша</a>
+<a class="d-block p-1" href="airlines">Авиакомпании</a>
+<a class="d-block p-1" href="payment">Оплата авиабилетов</a> <a class="d-block p-1" href="schedule">Расписание рейсов</a>
+<a class="d-block p-1" href="https://blog.bookit.kg">Блог</a>
+</div>
+<div class="d-inline-block hidden-sm"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+</section>
+<section class="popular-avia">
+<div class="container-fluid posr">
+<div class="container">
+<div class="row">
+<div class="col-xs-12"><h1 class="text-white text-center mb-1">Визовая справка для покупки авиабилетов заграницу</h1></div>
+</div>
+</div>
+</div>
+</section>
+<section class="payment-method-visa">
+<div class="container margin-top bg-white"><h2 class="bold text-center">Справка о визе перед покупкой авиабилетов на Bookit.kg</h2>
+<div class="hr m-auto"></div>
+<div class="clearfix"></div>
+</div>
+<div class="container">
+<p>При выезде за границу, прежде всего, рекомендуется проверить действительность ваших проездных документов (правильность указания в вашем паспорте фамилии, имени, отчества (в том числе и в латинской транслитерации), даты и места рождения, срока действия паспорта (срок действия паспорта не должен истекать менее чем за 6 месяцев после окончания поездки).</p>
+<p>Запишите телефоны посольств или консульских учреждений Вашей страны в стране Вашего пребывания (адреса и телефоны дипломатических представительств Вашей страны за рубежом).</p>
+<p>Если для въезда на территорию иностранного государства требуется виза, рекомендуем заблаговременно (за 1-2 месяца) обращаться за ее получением в дипломатическое представительство или консульское учреждение соответствующего государства в Вашем городе.</p>
+<p>Следует учитывать, что срок оформления визы в некоторых посольствах иностранных государств занимает порой продолжительное время, в особенности в период увеличения туристского потока за рубеж. При этом каждое посольство устанавливает по своему усмотрению порядок выдачи визы, в том числе интервью с консулом, стоимость визы и список документов, требуемых для получения визы.</p>
+<p>Строгое соблюдение требований, предъявляемых посольствами иностранных государств к документам на получение визы (размер фотографии, правильное и читабельное заполнение анкеты, оплата консульского сбора и др.), будет способствовать положительному и своевременному рассмотрению вашего обращения на визу.</p>
+<p>Не следует оплачивать поездку до того, как получите визу. Имейте в виду, что посольства иностранных государств не несут ответственность за финансовые потери, которые вы можете понести в случае отказа или задержки выдачи визы. Также не следует рассчитывать на то, что выкупленный билет с фиксированными датами поможет вам получить визу в срочном порядке.
+Если в страну назначения вы следуете транзитом через территорию других государств, то заранее проконсультируйтесь о необходимости оформления транзитных виз, включая срок их действия и кратность для благополучного пересечения границ.</p>
+</div>
+</section>
+<section class="simple-purchase">
+<div class="container-fluid">
+<div class="container"><h2 class="text-white mb-2">Визовая справка для покупки авиабилетов заграницу</h2>
+<p class="text-white f18">На этой странице вводная информация о важных моментах при покупке авиабилетов заграницу. Учитывайте все важные детали при покупке авиабилетов в страны с визовым контролем , чтобы избежать финансовых потерь.
+</p>
+<div><a class="btn btn-secondary px-1" href="index.html"><span class="bold">Купить билет</span><span class="angle">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 9 15.6" style="enable-background:new 0 0 9 15.6;" xml:space="preserve">
+<style type="text/css">
+                .st0 {
+                    fill: #FFF;
+                }
+              </style>
+<path class="st0" d="M1,15.6c-0.3,0-0.5-0.1-0.7-0.3c-0.4-0.4-0.4-1,0-1.4l5.9-6.1l-5.9-6c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.4,0                                L9,7.7l-7.2,7.5C1.5,15.5,1.3,15.6,1,15.6z"></path>
+</svg></span></a></div>
+</div>
+</div>
+</section>
+<div class="bg-dark">
+<div class="container py-2 text-white">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="rules">Правила и условия</a></li>
+<li class="pb-1"><a href="policy">Политика конфиденциальности</a></li>
+<li class="pb-1"><a href="payment">Оплата авиабилетов</a></li>
+<li class="pb-1"><a href="garant">Возвраты авиабилетов и гарантии</a></li> <li class="pb-1"><a href="visa">Визовая справка</a></li>
+<li class="pb-1"><a href="oferta">Оферта</a></li>
+<li class="pb-1"><a href="faq">Вопрос - Ответ</a></li> <li class="pb-1"><a href="become-a-partner">Стать партнером</a></li> </ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="index.html">Главная</a></li>
+<li class="pb-1"><a href="flights/fru">Направления из Бишкека</a></li>
+<li class="pb-1"><a href="flights/oss">Направления из Оша</a></li>
+<li class="pb-1"><a href="airlines">Авиакомпании</a></li>
+<li class="pb-1"><a href="schedule">Расписание рейсов</a></li>
+<li class="pb-1"><a href="https://blog.bookit.kg">Блог</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1 bold">Контакты</li>
+<li class="pb-1"><a href="tel:+996553080080">+996 (553) 080-080</a></li>
+
+<li class="pb-1">пр. Чингиза Айтматова 73/1</li>
+<li class="pb-1"><a href="cdn-cgi/l/email-protection#cfa6a1a9a08fada0a0a4a6bbe1a4a8">info<span class="domain">bookit.kg</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-white-line"></div>
+<div class="container pb-1">
+<div class="p-1 text-center text-white"><span>Bookit © 2020 — дешевые авиабилеты</span></div>
+</div>
+</div>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="dccabba906bf886aba7000b5-text/javascript">(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })
+        
+        (window, document, 'script', 'dataLayer', 'GTM-NS4CPS5');
+    </script>
+
+
+
+
+<script type="dccabba906bf886aba7000b5-text/javascript">
+    function jivo() {
+        var widget_id = 'pKcYKXQUIg';
+        var d = document;
+        var w = window;
+
+        function l() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.async = true;
+            s.src = '//code.jivosite.com/script/widget/' + widget_id;
+            var sc = document.getElementsByTagName('script')[0];
+            if (sc) sc.parentNode.insertBefore(s, sc);
+            else d.documentElement.firstChild.appendChild(s);
+        }
+
+        if (d.readyState === 'complete') {
+            l();
+        } else {
+            if (w.attachEvent) {
+                w.attachEvent('onload', l);
+            } else {
+                w.addEventListener('load', l, false);
+            }
+        }
+    }
+
+    setTimeout(jivo, 1000);
+</script>
+
+<link href="https://bookit.kg/views/common.min.css?v=20200328" rel="stylesheet" type="text/css">
+<script src="https://bookit.kg/views/static/js/jquery.min.js?v=20200328" type="dccabba906bf886aba7000b5-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/bootstrap.js?v=20200328" type="dccabba906bf886aba7000b5-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/jquery.ddslick.min.js?v=20200328" type="dccabba906bf886aba7000b5-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/common.js?v=20200328" type="dccabba906bf886aba7000b5-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="dccabba906bf886aba7000b5-|49" defer=""></script></body>
+</html>

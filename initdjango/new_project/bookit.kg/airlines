@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Поиск билетов по авиакомпаниям мира на Bookit.kg</title>
+<meta name="description" content="Крупнейшие авиакомпании мира на сервисе Bookit.kg. Воспользуйтесь удобным поиском на сайте и купите авиабилеты необходимой авиакомпании." />
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bookit.kg">
+<meta property="og:title" content="Поиск билетов по авиакомпаниям мира на Bookit.kg">
+<meta property="og:description" content="Крупнейшие авиакомпании мира на сервисе Bookit.kg. Воспользуйтесь удобным поиском на сайте и купите авиабилеты необходимой авиакомпании.">
+<meta property="og:url" content="https://bookit.kg/airlines">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:image" content="https://bookit.kg/views/images/mobile/share-image.jpg">
+<meta property="og:image:width" content="968">
+<meta property="og:image:height" content="504">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Поиск билетов по авиакомпаниям мира на Bookit.kg">
+<meta name="twitter:description" content="Крупнейшие авиакомпании мира на сервисе Bookit.kg. Воспользуйтесь удобным поиском на сайте и купите авиабилеты необходимой авиакомпании.">
+<script src="cdn-cgi/apps/head/LwKvY4TP4LG_EKYfL3ynXWXmdPI.js"></script><link rel="apple-touch-icon" sizes="57x57" href="views/images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="views/images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="views/images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="views/images/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="views/images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="views/images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="views/images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="views/images/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="views/images/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="views/images/favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="https://bookit.kg/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script type="application/ld+json">
+    {
+        "url": "https://bookit.kg/",
+        "sameAs": ["https://www.instagram.com/bookitkg/", "https://www.facebook.com/bookit.kg/"],
+        "name": "Bookit.kg",
+        "logo": "https://bookit.kg/views/images/icons/logo.svg",
+        "@type": "Organization",
+        "@context": "https://schema.org"
+    }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://bookit.kg/",
+                        "name": "Купить авиабилеты"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://bookit.kg/airlines",
+                        "name": "Авиакомпании"
+                    }
+                }]
+        }
+    </script>
+</head>
+<body>
+<section class="header-section">
+<div class="container">
+<div class="row pt-1-5">
+<div class="col-lg-2 col-md-2 col-sm-3 col-xs-10"><a class="logotype" href="index.html"><img src="https://bookit.kg/views/images/icons/logo.svg" alt="Bookit"></a></div>
+<div class="col-lg-7 col-md-8 hidden-sm hidden-xs">
+<div class="d-flex">
+<a class="link-item pointer" href="flights/fru">Направления из Бишкека</a>
+<a class="link-item pointer" href="flights/oss">Направления из Оша</a>
+<a class="link-item pointer" href="airlines">Авиакомпании</a>
+
+<a class="link-item pointer" href="schedule">Расписание рейсов</a>
+<a class="link-item pointer" href="https://blog.bookit.kg">Блог</a>
+</div>
+</div>
+<div class="col-lg-3 col-md-1 col-sm-8 hidden-xs text-right">
+<div class="d-inline-block text-left"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+<div class="col-sm-1 col-xs-2 hidden-lg hidden-md text-right"><span><img class="menu-icon" id="bar" src="https://bookit.kg/views/images/menu.svg" alt="Menu"></span></div>
+</div>
+</div>
+<div class="nav-header-menu-mobile hidden-md hidden-lg" id="nav-header-menu-mobile">
+<div class="flex-direction-row p-1">
+<a class="d-block p-1" href="flights/fru">Направления из Бишкека</a>
+<a class="d-block p-1" href="flights/oss">Направления из Оша</a>
+<a class="d-block p-1" href="airlines">Авиакомпании</a>
+<a class="d-block p-1" href="payment">Оплата авиабилетов</a> <a class="d-block p-1" href="schedule">Расписание рейсов</a>
+<a class="d-block p-1" href="https://blog.bookit.kg">Блог</a>
+</div>
+<div class="d-inline-block hidden-sm"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+</section>
+<section class="popular-avia">
+<div class="container-fluid posr">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center text-white">
+<h1 class="mb-1">Поиск авиакомпаний по всему миру</h1>
+<h2>Мы совершаем поиск билетов по крупнейшим авиакомпаниям, среди которых такие крупные авиакомпании, как Аэрофлот, S7 Airlines, Уральские авиалинии и другие.</h2>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="cards-airlines">
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/U6">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Уральские Авиалинии</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/U6.png')"></div>
+</div>
+</a>
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/SU">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Аэрофлот</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/SU.png')"></div>
+</div>
+</a>
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/S7">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>S7 Airlines</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/S7.png')"></div>
+</div>
+</a>
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/YK">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Авиа Траффик</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/YK.png')"></div>
+</div>
+</a>
+</div>
+</div>
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/PC">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Пегасус Эйрлайнс</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/PC.png')"></div>
+</div>
+</a>
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/ДЖ">
+<div class="card-header p-1-5 text-center bg-primary posr">
+ <div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Тез Джет</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/ДЖ.png')"></div>
+</div>
+</a>
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/ZM">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Эйр Манас</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/ZM.png')"></div>
+</div>
+</a>
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/HY">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Узбекские авиалинии</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/HY.png')"></div>
+</div>
+</a>
+</div>
+</div>
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/TK">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Турецкие авиалинии</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/TK.png')"></div>
+</div>
+</a>
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/A4">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Азимут</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/A4.png')"></div>
+</div>
+</a>
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/EK">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Эмирейтс</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/EK.png')"></div>
+</div>
+</a>
+ <a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/FZ">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Флай Дубай</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/FZ.png')"></div>
+</div>
+</a>
+</div>
+</div>
+<div class="container mb-2">
+<div class="d-flex flex-wrap">
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/KC">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Эйр Астана</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/KC.png')"></div>
+</div>
+</a>
+<a class="card-airlines f-gr-1 mb-1" href="https://bookit.kg/airline/CZ">
+<div class="card-header p-1-5 text-center bg-primary posr">
+<div class="wrap-text-card-air">
+<span><img src="https://bookit.kg/views/images/icons/white_aircraft.svg" alt="Aircraft"></span><span>Китайские Южные Авиалинии</span>
+</div>
+</div>
+<div class="card-body p-1">
+<div class="img" style="background-image: url('https://bookit.kg/views/images/airlines/big/CZ.png')"></div>
+</div>
+</a>
+</div>
+</div>
+</section>
+<section class="airline-world">
+<div class="container-fluid">
+<div class="container">
+<h2 class="text-white mb-2">Авиакомпании мира</h2>
+<p class="text-white f18">Выше предоставлен список популярных авиакомпаний, выберите необходимую и получите подробную информацию о рейсах этой авиакомпании, правилах и направлениях.</p>
+<p class="text-white f18">Пожалуйста, обратите внимание на то, что некоторые авиакомпании и туристические агентства взимают дополнительные сборы за багаж, место и оплату кредитной картой.</p>
+</div>
+</div>
+</section>
+<div class="bg-dark">
+<div class="container py-2 text-white">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="rules">Правила и условия</a></li>
+<li class="pb-1"><a href="policy">Политика конфиденциальности</a></li>
+<li class="pb-1"><a href="payment">Оплата авиабилетов</a></li>
+<li class="pb-1"><a href="garant">Возвраты авиабилетов и гарантии</a></li> <li class="pb-1"><a href="visa">Визовая справка</a></li>
+<li class="pb-1"><a href="oferta">Оферта</a></li>
+<li class="pb-1"><a href="faq">Вопрос - Ответ</a></li> <li class="pb-1"><a href="become-a-partner">Стать партнером</a></li> </ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="index.html">Главная</a></li>
+<li class="pb-1"><a href="flights/fru">Направления из Бишкека</a></li>
+<li class="pb-1"><a href="flights/oss">Направления из Оша</a></li>
+<li class="pb-1"><a href="airlines">Авиакомпании</a></li>
+<li class="pb-1"><a href="schedule">Расписание рейсов</a></li>
+<li class="pb-1"><a href="https://blog.bookit.kg">Блог</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1 bold">Контакты</li>
+<li class="pb-1"><a href="tel:+996553080080">+996 (553) 080-080</a></li>
+
+<li class="pb-1">пр. Чингиза Айтматова 73/1</li>
+<li class="pb-1"><a href="cdn-cgi/l/email-protection#e0898e868fa0828f8f8b8994ce8b87">info<span class="domain">bookit.kg</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-white-line"></div>
+<div class="container pb-1">
+<div class="p-1 text-center text-white"><span>Bookit © 2020 — дешевые авиабилеты</span></div>
+</div>
+</div>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="16e5c3364a863c59722b9151-text/javascript">(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })
+        
+        (window, document, 'script', 'dataLayer', 'GTM-NS4CPS5');
+    </script>
+
+
+
+
+<script type="16e5c3364a863c59722b9151-text/javascript">
+    function jivo() {
+        var widget_id = 'pKcYKXQUIg';
+        var d = document;
+        var w = window;
+
+        function l() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.async = true;
+            s.src = '//code.jivosite.com/script/widget/' + widget_id;
+            var sc = document.getElementsByTagName('script')[0];
+            if (sc) sc.parentNode.insertBefore(s, sc);
+            else d.documentElement.firstChild.appendChild(s);
+        }
+
+        if (d.readyState === 'complete') {
+            l();
+        } else {
+            if (w.attachEvent) {
+                w.attachEvent('onload', l);
+            } else {
+                w.addEventListener('load', l, false);
+            }
+        }
+    }
+
+    setTimeout(jivo, 1000);
+</script>
+
+<link href="https://bookit.kg/views/common.min.css?v=20200327" rel="stylesheet" type="text/css">
+<script src="https://bookit.kg/views/static/js/jquery.min.js?v=20200327" type="16e5c3364a863c59722b9151-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/bootstrap.js?v=20200327" type="16e5c3364a863c59722b9151-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/jquery.ddslick.min.js?v=20200327" type="16e5c3364a863c59722b9151-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/common.js?v=20200327" type="16e5c3364a863c59722b9151-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="16e5c3364a863c59722b9151-|49" defer=""></script></body>
+</html>

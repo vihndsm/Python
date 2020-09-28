@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Способы оплаты авиабилетов онлайн на Bookit.kg</title>
+<meta name="description" content="На Bookit.kg можно найти и купить дешевые авиабилеты онлайн. Узнайте о всех возможных способах оплаты билетов на самолет." />
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bookit.kg">
+<meta property="og:title" content="Способы оплаты авиабилетов онлайн на Bookit.kg">
+<meta property="og:description" content="На Bookit.kg можно найти и купить дешевые авиабилеты онлайн. Узнайте о всех возможных способах оплаты билетов на самолет.">
+<meta property="og:url" content="https://bookit.kg/payment">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:image" content="https://bookit.kg/views/images/mobile/share-image.jpg">
+<meta property="og:image:width" content="968">
+<meta property="og:image:height" content="504">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Способы оплаты авиабилетов онлайн на Bookit.kg">
+<meta name="twitter:description" content="На Bookit.kg можно найти и купить дешевые авиабилеты онлайн. Узнайте о всех возможных способах оплаты билетов на самолет.">
+<script src="cdn-cgi/apps/head/LwKvY4TP4LG_EKYfL3ynXWXmdPI.js"></script><link rel="apple-touch-icon" sizes="57x57" href="views/images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="views/images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="views/images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="views/images/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="views/images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="views/images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="views/images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="views/images/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="views/images/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="views/images/favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="views/images/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="https://bookit.kg/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script type="application/ld+json">
+    {
+        "url": "https://bookit.kg/",
+        "sameAs": ["https://www.instagram.com/bookitkg/", "https://www.facebook.com/bookit.kg/"],
+        "name": "Bookit.kg",
+        "logo": "https://bookit.kg/views/images/icons/logo.svg",
+        "@type": "Organization",
+        "@context": "https://schema.org"
+    }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://bookit.kg/",
+                        "name": "Купить авиабилеты"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://bookit.kg/payment",
+                        "name": "Оплата авиабилетов"
+                    }
+                }]
+        }
+    </script>
+</head>
+<body>
+<section class="header-section">
+<div class="container">
+<div class="row pt-1-5">
+<div class="col-lg-2 col-md-2 col-sm-3 col-xs-10"><a class="logotype" href="index.html"><img src="https://bookit.kg/views/images/icons/logo.svg" alt="Bookit"></a></div>
+<div class="col-lg-7 col-md-8 hidden-sm hidden-xs">
+<div class="d-flex">
+<a class="link-item pointer" href="flights/fru">Направления из Бишкека</a>
+<a class="link-item pointer" href="flights/oss">Направления из Оша</a>
+<a class="link-item pointer" href="airlines">Авиакомпании</a>
+
+<a class="link-item pointer" href="schedule">Расписание рейсов</a>
+<a class="link-item pointer" href="https://blog.bookit.kg">Блог</a>
+</div>
+</div>
+<div class="col-lg-3 col-md-1 col-sm-8 hidden-xs text-right">
+<div class="d-inline-block text-left"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+<div class="col-sm-1 col-xs-2 hidden-lg hidden-md text-right"><span><img class="menu-icon" id="bar" src="https://bookit.kg/views/images/menu.svg" alt="Menu"></span></div>
+</div>
+</div>
+<div class="nav-header-menu-mobile hidden-md hidden-lg" id="nav-header-menu-mobile">
+<div class="flex-direction-row p-1">
+<a class="d-block p-1" href="flights/fru">Направления из Бишкека</a>
+<a class="d-block p-1" href="flights/oss">Направления из Оша</a>
+<a class="d-block p-1" href="airlines">Авиакомпании</a>
+<a class="d-block p-1" href="payment">Оплата авиабилетов</a> <a class="d-block p-1" href="schedule">Расписание рейсов</a>
+<a class="d-block p-1" href="https://blog.bookit.kg">Блог</a>
+</div>
+<div class="d-inline-block hidden-sm"><span class="float-left">
+</span><a class="btn btn-secondary text-white" href="index.html">Купить</a></div>
+</div>
+</section>
+<section class="popular-avia sm-mobile special">
+<div class="container-fluid posr">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<h1 class="text-white text-center mb-1">Способы оплаты авиабилетов</h1>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="payment-special">
+<div class="container">
+<div class="row">
+<div class="d-flex flex-wrap">
+<div class="card-payment f-gr-1 mb-1"><a class="img" href="docs/how-to-pay/visa.pdf" target="_blank" rel="nofollow" style="background-image: url('https://bookit.kg/views/images/payment-methods/svg/visa-mastercard.svg')"></a></div>
+<div class="card-payment f-gr-1 mb-1"><a class="img" href="docs/how-to-pay/elsom.pdf" target="_blank" rel="nofollow" style="background-image: url('https://bookit.kg/views/images/payment-methods/svg/elcom.svg')"></a></div>
+<div class="card-payment f-gr-1 posr mb-1"><a class="img" href="javascript:void(0);" rel="nofollow" style="background-image: url('https://bookit.kg/views/images/payment-methods/svg/cbk.svg')"></a></div>
+</div>
+</div>
+</div>
+<div class="container mb-2">
+<div class="row">
+<div class="d-flex flex-wrap">
+<div class="card-payment f-gr-1 mb-1"><a class="img" href="docs/how-to-pay/elkart.pdf" target="_blank" rel="nofollow" style="background-image: url('https://bookit.kg/views/images/payment-methods/svg/elkart.svg')"></a></div>
+<div class="card-payment f-gr-1 mb-1"><a class="img" href="docs/how-to-pay/umai.pdf" target="_blank" rel="nofollow" style="background-image: url('https://bookit.kg/views/images/payment-methods/svg/umai.svg')"></a></div>
+
+<div class="card-payment f-gr-1 mb-1"><a class="img" href="docs/how-to-pay/quickpay.pdf" target="_blank" rel="nofollow" style="background-image: url('https://bookit.kg/views/images/payment-methods/svg/qp.svg')"></a></div>
+</div>
+</div>
+</div>
+</section>
+<section class="payment-method-visa">
+<div class="container margin-top bg-white p-7">
+<h2 class="bold text-center mb-2">Как оплатить билеты на самолет онлайн</h2>
+<div class="hr m-auto"></div>
+<div class="clearfix"></div>
+<div class="row mt-3">
+<div class="col-xs-12 col-sm-6">
+<p class="text-primary f18">Как оплатить билеты на самолет</p>
+<p>
+Заказ на www.bookit.kg можно оплатить разными способами: онлайн - банковской картой(Visa, MasterCard, Элкарт), электронными деньгами - Элсом, Мобильный кошелек, Umai(Умай), и наличными - через терминаты оплаты QIWI(Киви), Мобильник, Terem Pay(Терем Пей), QuickPay(КвикПей), Umai(Умай)
+банковским переводом. Удобнее всего оплачивать онлайн, банковской картой или электронными деньгами.
+Все платежи осуществляются без дополнительных комиссий. При оплате банковской картой онлайн данные карты передаются по защищенному каналу (протокол SSL 3.0)
+в зашифрованном виде с соблюдением всех необходимых мер безопасности и обрабатываются на специализированном авторизованном сервере платежной системы
+Обратите внимание! При выборе способа оплаты Мобильный кошелек, Элсом, Umai - оплата с кошелька производится без комиссии. Однако за пополнение кошелька через терминал или иным
+способом возможно удержание коммисии платежной системы, размер коммисии зависит от способа пополнения.
+</p>
+<p>
+Авиабилеты будет оформлен после подтверждения успешной оплаты. При отказе от билета возврат денежных средств производится на пользовательский счет www.bookit.kg, с которого по вашему запросу мы можем вернуть деньги тем способом, которым был оплачен заказ.</p>
+<p class="text-primary f18">Банковский перевод</p>
+<p>
+Мы принимаем к оплате банковские переводы от банков ОАО "Demir Kyrgyz International Bank", ОАО "Kyrkyz Investment and Credit Bank", OAO "Optima Bank", ОАО "РСК Банк", ОАО "Коммерческий банк Кыргызстан" и во всех филиалах этих банков.
+Чтобы оплатить заказ или пополнить счет в личном кабинете, вам необходимо предоставить паспорт, назвать р/с счет
+ОсОО "Букит" и назвать личный идентификатор. Денежные средства в личный кабинет поступят в момент платежа.
+Денежные средства с карты будут сняты только при оформлении билета. При отказе от билета возврат денежных средств осуществляется
+на счет в личном кабинете, с которого была совершена оплата.
+</p>
+<p class="text-primary f18">Оплата Банковской картой online.</p>
+<p>Мы принимаем к оплате пластиковые карты Visa, MasterCard, Элкарт. Чтобы оплатить заказ банковской картой, выберите в способах оплаты "VISA/MasterCard" или "Элкарт"</p>и подтвердите свое намерение платить картой. После этого вы будете переадресованы на авторизованный сервер платежной системы, где нужно будет ввести данные
+вашей пластиковой карты и завершить платеж.
+</div>
+<div class="col-xs-12 col-sm-6">
+<p>
+Денежные средства с карты будут сняты только при оформлении билета. При отказе от билета возврат денежных средств осуществляется на ту карту, с которой была совершена оплата.</p>
+<p class="text-primary f18">Электронный кошелек</p>
+<p>Мы принимаем к оплате Элсом, Мобильный кошелек, Umai. Электронный кошелек Элсом, Мобильный кошелек, Umai - это виртуальный счет предоставленный номером мобильного устройства,</p>
+<p>
+Позволяющий совершать платежи, вкладывать, переводить, и обналичивать деньги электронным путем. Он охватывает возможности банковского счета, но предлогает Вам более удобный и простой способ совершать финансовые операции мобильно
+Клиенты Элсом имеют возможность совершать операции в любом месте и в любое время, при условии доступности мобильной сети.
+</p>
+<p>Электронный кошелек по своей сути, та же банковская карта, только в мобильном телефоне.</p>
+<p>
+Чтобы оплатить заказ через Элсом, выберите в способах оплаты "Элсом" и подтвердите свое намерение оплатить. Как только как Вы получите код для оплаты - Вам необходимо перейти на сайт Элсом или в мобильное приложение Элсом и произвести оплату по коду.
+После успешной оплаты кода - Вам необходимо перейти на сайт и подтвердить оплату, после чего произойдет оформление заказа.
+Денежные средства будут сняты только при оформлении билета. При отказе от билета возврат денежных средств
+осуществляется на счет в личном кабинете.
+</p>
+<p class="text-primary f18">Терминалы</p>
+<p>Мы принимаем к оплате оплаты через терминалы QIWI(Киви), Мобильник, Terem Pay(Терем Пей), QuickPay(КвикПей), Umai(Умай).</p>
+<p>
+Для того, чтобы оплатить за авиабилеты или внести средства на счет в личном кабинете, вам нужно выбрать в меню поставшиков услуг - Bookit.kg, ввести номер заказа и произвести платеж на нужную сумму.
+Денежные средства поступят на счет в личном кабинете в течении 10 минут с момента оплаты.
+Денежные средства будут сняты только при оформлении билета. При отказе от билета возврат денежных средств осуществляется на счет в личном кабинете.
+</p>
+</div>
+</div>
+</div>
+</section>
+<div class="bg-dark">
+<div class="container py-2 text-white">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="rules">Правила и условия</a></li>
+<li class="pb-1"><a href="policy">Политика конфиденциальности</a></li>
+<li class="pb-1"><a href="payment">Оплата авиабилетов</a></li>
+<li class="pb-1"><a href="garant">Возвраты авиабилетов и гарантии</a></li> <li class="pb-1"><a href="visa">Визовая справка</a></li>
+<li class="pb-1"><a href="oferta">Оферта</a></li>
+<li class="pb-1"><a href="faq">Вопрос - Ответ</a></li> <li class="pb-1"><a href="become-a-partner">Стать партнером</a></li> </ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1"><a href="index.html">Главная</a></li>
+<li class="pb-1"><a href="flights/fru">Направления из Бишкека</a></li>
+<li class="pb-1"><a href="flights/oss">Направления из Оша</a></li>
+<li class="pb-1"><a href="airlines">Авиакомпании</a></li>
+<li class="pb-1"><a href="schedule">Расписание рейсов</a></li>
+<li class="pb-1"><a href="https://blog.bookit.kg">Блог</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<ul class="list-unstyled">
+<li class="pb-1 bold">Контакты</li>
+<li class="pb-1"><a href="tel:+996553080080">+996 (553) 080-080</a></li>
+
+<li class="pb-1">пр. Чингиза Айтматова 73/1</li>
+<li class="pb-1"><a href="cdn-cgi/l/email-protection#7c15121a133c1e131317150852171b">info<span class="domain">bookit.kg</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-white-line"></div>
+<div class="container pb-1">
+<div class="p-1 text-center text-white"><span>Bookit © 2020 — дешевые авиабилеты</span></div>
+</div>
+</div>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="99e340e45277950a44666c37-text/javascript">(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })
+        
+        (window, document, 'script', 'dataLayer', 'GTM-NS4CPS5');
+    </script>
+
+
+
+
+<script type="99e340e45277950a44666c37-text/javascript">
+    function jivo() {
+        var widget_id = 'pKcYKXQUIg';
+        var d = document;
+        var w = window;
+
+        function l() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.async = true;
+            s.src = '//code.jivosite.com/script/widget/' + widget_id;
+            var sc = document.getElementsByTagName('script')[0];
+            if (sc) sc.parentNode.insertBefore(s, sc);
+            else d.documentElement.firstChild.appendChild(s);
+        }
+
+        if (d.readyState === 'complete') {
+            l();
+        } else {
+            if (w.attachEvent) {
+                w.attachEvent('onload', l);
+            } else {
+                w.addEventListener('load', l, false);
+            }
+        }
+    }
+
+    setTimeout(jivo, 1000);
+</script>
+
+<link href="https://bookit.kg/views/common.min.css?v=20200403" rel="stylesheet" type="text/css">
+<script src="https://bookit.kg/views/static/js/jquery.min.js?v=20200403" type="99e340e45277950a44666c37-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/bootstrap.js?v=20200403" type="99e340e45277950a44666c37-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/jquery.ddslick.min.js?v=20200403" type="99e340e45277950a44666c37-text/javascript"></script>
+<script src="https://bookit.kg/views/static/js/common.js?v=20200403" type="99e340e45277950a44666c37-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="99e340e45277950a44666c37-|49" defer=""></script></body>
+</html>
