@@ -36,9 +36,9 @@
         <script src=" {% static 'js/vendor/modernizr-2.8.3.min.js' %}"></script>
     </head>
     <body>
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
+     
+           <!--  <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        -->
 		<!-- header-start -->
 		<header class="header-3">
 			<div class="header-top">
@@ -100,25 +100,25 @@
 						</div>						
 						<div class="col-md-4 col-sm-12 col-xs-12">
 							<div class="shopping-cart">
-								<a href="{% url 'shop:shopping' %}" rel="nofollow" title="View my shopping cart">
+								<a href="#" rel="nofollow" title="View my shopping cart">
 									<b>cart 2 item</b>
 								</a>
 								<div class="top-cart-content">
 									<div class="media header-middle-checkout">
 										<div class="media-left check-img">
-											<a href="{% url 'shop:shopping' %}">
+											<a href="#">
 												<img src="{% static 'img/cart-img/blouse.jpg' %}" alt="" />
 											</a>
 										</div>
 										<div class="media-body checkout-content">
 											<h4 class="media-heading">
 												<span class="cart-count">1x</span>
-												<a href="{% url 'shop:shopping' %}">Suspendisse</a>
+												<a href="#">Suspendisse</a>
 												<span class="btn-remove checkout-remove" title="remove this product from my cart">
 													<i class="fa fa-times" aria-hidden="true"></i>
 												</span>
 											</h4>
-											<p class="product-detail"><a href="index.html#" title="product detail">S, Yellow</a></p>
+											<p class="product-detail"><a href="{% url 'shop:detail' %}" title="product detail">S, Yellow</a></p>
 											<p>£ 34.78</p>
 										</div>
 									</div>
@@ -136,7 +136,7 @@
 													<i class="fa fa-times" aria-hidden="true"></i>
 												</span>
 											</h4>
-											<p class="product-detail"><a href="index.html" title="product detail">S, Black</a></p>
+											<p class="product-detail"><a href="{% url 'shop:detail' %}" title="product detail">S, Black</a></p>
 											<p>£ 32.40</p>
 										</div>
 									</div>
@@ -179,16 +179,14 @@
 											<a href="{% url 'shop:shop' %}">Shop Page</a>
 											
 										</li>
-										<li>
-											<a href="{% url 'shop:product' %}">Product details</a>
-										</li>
+										<!-- <li>
+											<a href="{% url 'shop:detail' %}">Product details</a>
+										</li> -->
 										<li>
 											<a href="{% url 'shop:wishlist' %}">Wishlist</a>
 											
 										</li>
-										<li>
-											<a href="{% url 'shop:shopping' %}">Shoping Cart</a>
-										</li>
+										
 										<li>
 											
 											<a href="{% url 'shop:my_account' %}">My account</a>
@@ -231,16 +229,12 @@
 											<a href="{% url 'shop:shop' %}">Shop Page</a>
 											
 										</li>
-										<li>
-											<a href="{% url 'shop:product' %}">Product details</a>
-										</li>
+										
 										<li>
 											<a href="{% url 'shop:wishlist' %}">Wishlist</a>
 											
 										</li>
-										<li>
-											<a href="{% url 'shop:shopping' %}">Shoping Cart</a>
-										</li>
+										
 										<li>
 											
 											<a href="{% url 'shop:my_account' %}">My account</a>
@@ -264,116 +258,7 @@
 		</header>
 		<!--=====header-end=====-->
 		<!--=====slider-and-banner-start=====-->
-		<div class="slider-and-banner-area">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-8">
-						<div class="slider-container">
-							<div class="slider">
-								<!-- Slider Image -->
-								<div id="mainslider" class="nivoSlider slider-image">
-									<img src="http://preview.hasthemes.com/vonia-preview/vonia/img/slider/3.jpg" alt="main slider" title="#htmlcaption1"/>
-									<img src="http://preview.hasthemes.com/vonia-preview/vonia/img/slider/4.jpg" alt="main slider" title="#htmlcaption2"/>
-								</div>
-								<!-- Slider Caption 1 -->
-								<div id="htmlcaption1" class="nivo-html-caption slider-caption-1">
-									<div class="slider-progress"></div>	
-									<div class="slide1-text slide-1">
-										<div class="middle-text color-black">
-											<div class="cap-dec wow bounceInLeft" data-wow-duration="0.9s" data-wow-delay="0s">
-												<h1>wooflamp</h1>
-											</div>	
-											<div class="cap-title wow bounceInRight" data-wow-duration="1.2s" data-wow-delay="0.2s">
-												<h3>From: $99.00</h3>
-											</div>
-											<div class="cap-readmore wow bounceInUp" data-wow-duration="1.3s" data-wow-delay=".5s">
-												<a href="i{% url 'shop:shop' %}">Shop Now</a>
-											</div>	
-										</div>
-									</div>						
-								</div>
-								<!-- Slider Caption 2 -->
-								<div id="htmlcaption2" class="nivo-html-caption slider-caption-2">
-									<div class="slider-progress"></div>
-									<div class="slide1-text slide-2">
-										<div class="middle-text">
-											<div class="cap-dec wow bounceIn" data-wow-duration="0.7s" data-wow-delay="0s">
-												<h1>Sale!</h1>
-											</div>	
-											<div class="cap-title wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
-												<h3>10% off all products</h3>
-											</div>
-											<div class="cap-readmore wow bounceIn" data-wow-duration="1.1s" data-wow-delay=".5s">
-												<a href="{% url 'shop:shop' %}">Shop Now</a>
-											</div>										
-										</div>										
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="home-banner-left">
-							<div class="row">
-								<div class="col-md-12">
-									<div class="sign-up-box">
-										<div class="box-inner">
-											<h2>sign up and get
-												<span>25% off</span>
-											</h2>
-											<p>Lorem Ipsum is simply dummy text of the printing</p>
-										</div>
-										<div class="link-text">
-											<a href="{% url 'shop:shop' %}">Shop now</a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-md-6 col-sm-6 col-xs-12">
-									<div class="banner-static-box">
-										<div class="banner-box">
-											<a href="index.html">
-												<img src="{% static 'http://preview.hasthemes.com/vonia-preview/vonia/img/banner/6_1.jpg' %}" alt="" />
-											</a>
-										</div>
-										<div class="banner-box-content">
-											<h2>FURNITURE</h2>
-											<a href="{% url 'shop:shop' %}">Shop now</a>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-6 col-sm-6 col-xs-12">
-									<div class="banner-static-box">
-										<div class="banner-box">
-											<a href="index.html">
-												<img src="{% static 'http://preview.hasthemes.com/vonia-preview/vonia/img/banner/7_1.jpg' %}" alt="" />
-											</a>
-										</div>
-										<div class="banner-box-content">
-											<h2>bathroom</h2>
-											<a href="{% url 'shop:shop' %}">Shop now</a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-12 col-xs-12">
-						<div class="banner-right row">
-							<div class="banner-box col-1 col-md-12 col-sm-6">
-								<a href="index.html">
-									<img src="http://preview.hasthemes.com/vonia-preview/vonia/img/banner/1_3.jpg" alt="" />
-								</a>
-							</div>
-							<div class="banner-box col-md-12 col-sm-6">
-								<a href="index.html">
-									<img src="http://preview.hasthemes.com/vonia-preview/vonia/img/banner/2_3.jpg" alt="" />
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 		<!-- slider-and-banner-end -->
 		<!-- service-start -->
 		<div class="home-3-service service-area">
@@ -421,7 +306,7 @@
                             <ul class="tabs" role="tablist">
     							<li role="presentation" class="active"><a href="index.html#newarrival" aria-controls="newarrival" role="tab" data-toggle="tab">new arrival</a></li>
 							    <li role="presentation"><a href="index.html#onsale" aria-controls="onsale" role="tab" data-toggle="tab">onsale</a></li>
-							    <li role="presentation"><a href="index.html#bestseller" aria-controls="bestseller" role="tab" data-toggle="tab">bestseller</a></li>
+							   
                             </ul>
                             <div class="tab-content">
 								<div role="tabpanel" class="tab-pane active fade in" id="newarrival">
@@ -431,7 +316,7 @@
 											<div class="col-md-12">
 												<div class="single-product">
 													<div class="product-img">
-														<a href="{% url 'shop:product' %}">
+														<a href="{% url 'shop:detail' %}">
 															<img src="{% static 'img/tab-pro/printed-chiffon-dress.jpg' %}" alt="" />
 														</a>
 														<span class="new">new</span>
@@ -440,7 +325,7 @@
 															<div class="add-to-links">
 																<ul>
 																	<li>
-																		<a href="{% url 'shop:shopping' %}" title="Add to cart">
+																		<a href="#" title="Add to cart">
 																			<i class="fa fa-shopping-cart"></i>
 																		</a>
 																	</li>
@@ -465,7 +350,7 @@
 													</div>
 													<div class="product-content">
 														<h5 class="product-name">
-															<a href="index.html" title="Printed Chiffon Dress">Printed Chiffon Dress</a>
+															<a href="{% url 'shop:detail' %}" title="Printed Chiffon Dress">Printed Chiffon Dress</a>
 														</h5>
 														<div class="reviews">
 															<div class="star-content clearfix">
@@ -488,7 +373,7 @@
 												</div>
 												<div class="single-product tab-mar">
 													<div class="product-img">
-														<a href="index.html">
+														<a href="{% url 'shop:detail' %}">
 															<img src="{% static 'img/tab-pro/lamp.jpg' %}" alt="" />
 														</a>
 														<span class="new">new</span>
@@ -496,7 +381,7 @@
 															<div class="add-to-links">
 																<ul>
 																	<li>
-																		<a href="{% url 'shop:shopping' %}" title="Add to cart">
+																		<a href="#" title="Add to cart">
 																			<i class="fa fa-shopping-cart"></i>
 																		</a>
 																	</li>
@@ -538,40 +423,7 @@
 		
 		<!--=====product-tab-end=====-->
 		<!--=====special-look-start=====-->
-		<div class="special-look">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="product-title">
-							<h2>
-								<span>Special Look</span>
-							</h2>
-						</div>
-						<div class="banner-content">
-							<div class="col-1">
-								<div class="banner-box">
-									<a href="index.html">
-										<img src="{% static 'img/body/4_2.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-2">
-								<div class="banner-box">
-									<a href="index.html">
-										<img src="{% static 'img/body/5_2.jpg' %}" alt="" />
-									</a>
-								</div>
-								<div class="banner-box">
-									<a href="index.html">
-										<img src="{% static 'img/body/6_2.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 		<!--=====special-look-end=====-->
 		<!--===== latest-blog-start =====-->
 		<div class="latest-blog">
@@ -676,65 +528,7 @@
 		</div>
 		<!--===== testimonial-area-end =====-->
 		<!--===== brand-area-start =====-->
-		<div class="brand-area">
-			<div class="container">
-				<div class="row">
-					<div class="brands">
-						<div class="brand-carousel">
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="index.html">
-										<img src="{% static 'img/brand/1.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="index.html">
-										<img src="{% static 'img/brand/2.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="index.html">
-										<img src="{% static 'img/brand/3.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="index.html">
-										<img src="{% static 'img/brand/4.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="index.html">
-										<img src="{% static 'img/brand/5.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="index.html#">
-										<img src="{% static 'img/brand/6.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="index.html">
-										<img src="{% static 'img/brand/7.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 		<!-- brand-area-end -->
 		{% endblock %}
 		<!-- footer-start -->
@@ -763,34 +557,29 @@
 											<p class="address add">
 												<span>No. 96, Jecica City, NJ 07305, New York, USA</span>
 											</p>
-											<p class="phone add">
+											<p class="phone ">
 												<span> +8801973 833508</span>
 											</p>
-											<p class="email add">
+											<p class="email">
 												<a href="index.html">admin@bootexperts.com</a>
 											</p>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-4 col-xs-12">
 										<h4>Information</h4>
-										<ul class="toggle-footer">
-											
-											<li>
-												<a title="New products" href="index.html">New products</a>
-											</li>
-											
-											
+										<ul>
 											<li>
 												<a title="Contact us" href="{% url 'shop:contact' %}">Contact us</a>
 											</li>
 											<li>
-												<a title="Sitemap" href="index.html">Sitemap</a>
+												<a title="Our blog" href="{% url 'shop:blog' %}">Blog</a>
 											</li>
+											
 										</ul>
 									</div>
 									<div class="col-md-4 col-sm-4 col-xs-12">
 										<h4>My account</h4>
-										<ul class="toggle-footer">
+										<ul> 
 											<li>
 												<a title="My orders" href="index.html">My orders</a>
 											</li>
@@ -819,19 +608,16 @@
 										</form>
 									</div>
 								</div>
-								<div class="footer-social">
+								  <div class="social-icons">
 								 <h3>Follow Us</h3>
-									<a href="index.html"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-									<a href="index.html"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-									<a href="index.html"><i class="fa fa-rss" aria-hidden="true"></i></a>
-									<a href="index.html"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-									<a href="index.html"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+									 <a target= '_blank' href="https://www.instagram.com/"><img src="https://img.icons8.com/nolan/36/instagram-new.png"/></a>
+									<a target= '_blank' href="https://vk.com/"><img src="https://img.icons8.com/nolan/36/vk-com.png"/></a>
 								</div>
 							</div>
 						</div>
 						<div class="payment">
 							<a href="index.html">
-								<img src="{% static 'img/payment.png' %}" alt="" />
+								<img src="{% static 'img/payment.png' }" alt="" />
 							</a>
 						</div>
 					</div>
@@ -841,7 +627,7 @@
 						<div class="row">
 							<div class="col-md-6 col-sm-6 col-xs-12 address">
 								Copyright  © 
-								<a href="http://bootexperts.com">Bootexperts</a>
+								<a href="http://kirossavage.pythonanywhere.com">KirosSavage</a>
 								. All Rights Reserved
 							</div>
 							<div class="col-md-6 col-sm-6 col-xs-12 footer-link">
@@ -904,7 +690,7 @@
 								Accessorize with a straw hat and you're ready for summer!
 								</p>
 							</div>
-							<form action="{% url 'shop:product' %}">
+							<form action="#">
 								<div class="shop-product-add">
 									<div class="add-cart">
 										<p class="quantity cart-plus-minus">
@@ -959,14 +745,7 @@
 									<i class="icon-facebook"></i>
 									Share
 								</button>
-								<button class="btn btn-default btn-google-plus">
-									<i class="icon-google-plus"></i>
-									Google+
-								</button>
-								<button class="btn btn-default btn-pinterest">
-									<i class="icon-pinterest"></i>
-									Pinterest
-								</button>
+							
 							</p>
 						</div>
 					</div>

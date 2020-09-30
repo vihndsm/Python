@@ -8,15 +8,6 @@
 		<!-- shop-2-area-start -->
 		<div class="shop-2-area">
 			<div class="container">
-				<div class="breadcrumb">
-					<a href="index.html" title="Return to Home">
-						<i class="icon-home"></i>
-					</a>
-					<span class="navigation-pipe">></span>
-					<span class="navigation-page">
-						Kitchen & Bar
-					</span>
-				</div>
 				<div class="row">
 					<div class="left-column col-sm-3">
 						<div class="left-column-block">
@@ -310,67 +301,31 @@
 							<div class="tags">
 								<a href="shop.html">new</a>
 								<a href="shop.html">fashion</a>
-								<a href="shop.html">furniture</a>
+								
 								<a href="shop.html">sale</a>
-								<a href="shop.html">accessories</a>
+							
 								<a href="shop.html">lighting</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-sm-9">
-						<div class="shop-banner"></div>
+						
 						<div class="shop-heading">
-							<h2>bedding</h2>
+							<!-- <h2>bedding</h2> -->
 							<span>There are 13 products.</span>
 						</div>
 						<div class="clearfix"></div>
 						<div class="category-products">
-							<div class="topbar-category">
-								<div class="pager-area">
-									<div>
-										<!-- Nav tabs -->
-										<ul class="shop-tab">
-											<li role="presentation" class="active"><a href="shop.html#gried_view" role="tab" data-toggle="tab">
-												<i class="fa fa-th-large"></i></a>
-											</li>
-											<li role="presentation"><a href="shop.html#list_view" role="tab" data-toggle="tab">
-												<i class="fa fa-th-list"></i></a>
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="sort-by hidden-xs">
-									<label>Sort by</label>
-									<select>
-										<option value="#">Price: Lowest first</option>
-										<option value="#">Price: Highest first</option>
-										<option value="#">Product Name: A to Z</option>
-										<option value="#">Product Name: Z to A</option>
-										<option value="#">In stock</option>
-										<option value="#">Reference: Lowest first</option>
-										<option selected="selected" value="#">--</option>
-									</select>
-								</div>
-								<div class="show hidden-xs">
-									<label>Show</label>
-									<select>
-										<option value="#">24</option>
-										<option selected="selected" value="#">12</option>
-									</select>
-									<span>per page</span>
-								</div>
-								<div class="compare">
-									<a href="shop.html"> compare (0) </a>
-									<i class="fa fa-angle-right"></i>
-								</div>
-							</div>
+							
 							<div class="shop-category-product">
 								<div class="row">
 									<div class="category-product">
 										<!-- Tab panes -->
-										{% for p in producent %}
+										
 										<div class="tab-content">
+
 											<div role="tabpanel" class="tab-pane active fade in" id="gried_view">
+												{% for p in producent %}
 												<div class="col-md-4 col-sm-6 col-xs-12">
 													<div class="single-product">
 														<div class="product-img">
@@ -379,18 +334,18 @@
 																<img src="{{ p.image.url }}" alt="" />
 																{% endif %}
 															</a>
-															<span class="new">new</span>
-															<span class="sale">sale!</span>
+															<span class="new">{{  p.new }}</span>
+															<span class="sale">{{  p.sale }}</span>
 															<div class="product-action">
 																<div class="add-to-links">
 																	<ul>
 																		<li>
-																			<a href="shop.html" title="Add to cart">
+																			<a href="#" title="Add to cart">
 																				<i class="fa fa-shopping-cart"></i>
 																			</a>
 																		</li>
 																		<li>
-																			<a href="shop.html" title="Add to wishlist">
+																			<a href="{% url 'shop:wishlist' %}" title="Add to wishlist">
 																				<i class="fa fa-heart" aria-hidden="true"></i>
 																			</a>
 																		</li>
@@ -401,7 +356,7 @@
 																		</li>
 																	</ul>
 																	<div class="quick-view">
-																		<a href="shop.html" data-toggle="modal" data-target="#myModal" title="Quick view">
+																		<a target="_blank" href="{% url 'shop:detail' %}" data-toggle="modal" data-target="#myModal" title="Quick view">
 																			<span>Quick view</span>
 																		</a>
 																	</div>
@@ -432,17 +387,9 @@
 														</div>
 													</div>
 												</div>
-												
-														
-													
-																
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
+											{% endfor %}
 										</div>
-										{% endfor %}
+										
 									</div>
 								</div>
 							</div>
@@ -472,12 +419,7 @@
 										</li>
 									</ul>
 								</div>
-								<div class="col-md-6 col-xs-6">
-									<div class="compare">
-										<a href="shop.html"> compare (0) </a>
-										<i class="fa fa-angle-right"></i>
-									</div>
-								</div>
+							</div>
 							</div>
 						</div>
 					</div>
@@ -486,65 +428,7 @@
 		</div>
 		<!--=====shop-2-area-end=====-->
 		<!--===== brand-area-start =====-->
-		<div class="brand-area">
-			<div class="container">
-				<div class="row">
-					<div class="brands">
-						<div class="brand-carousel">
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="shop.html">
-										<img src="{% static 'img/brand/1.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="shop.html">
-										<img src="{% static 'img/brand/2.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="shop.html">
-										<img src="{% static 'img/brand/3.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="shop.html">
-										<img src="{% static 'img/brand/4.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="shop.html">
-										<img src="{% static 'img/brand/5.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="shop.html">
-										<img src="{% static 'img/brand/6.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="single-brand">
-									<a href="shop.html">
-										<img src="{% static 'img/brand/7.jpg' %}" alt="" />
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 		<!-- brand-area-end -->
 		<!-- footer-start -->
 {% endblock %}

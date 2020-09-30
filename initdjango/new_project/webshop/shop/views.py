@@ -1,6 +1,11 @@
 from django.shortcuts import render, get_object_or_404
-from .models import Category, Product
+from .models import *
 from cart.forms import CartAddProductForm
+
+
+from django.views import View
+
+
 
 
 def index(request):
@@ -16,7 +21,7 @@ def my_account(request):
 	return render(request, 'shop/account.html')
 
 def shopping(request):
-	return render(request, 'shop/shopping-cart.html')
+	return render(request, 'cart/shopping-cart.html')
 
 def checkout(request):
 	return render(request, 'shop/checkout.html')
@@ -30,25 +35,32 @@ def blog(request):
 def wishlist(request):
 	return render(request, 'shop/wishlist.html')
 
-def product(request):
+def detail(request):
+
+	# productdetail = get_object_or_404(productdetail, pk=pk)
+	# context = {
+	# 'productdetail': prod
+	# }
 	return render(request, 'shop/product-details.html')			
 
 def shop(request):
 	product = Product.objects.all()
-	return render(request, 'shop/shop.html', {'producent': product})		    
+	return render(request, 'shop/shop.html', {'producent': product})	
 
-# def shopping(request, category_slug=None):
-#     category = None
-#     categories = Category.objects.all()
-#     products = Product.objects.filter(available=True)
-#     if category_slug:
-#         category = get_object_or_404(Category, slug=category_slug)
-#         products = products.filter(category=category)
-#     return render(request,
-#                   'shop/product/shopping.html',
-#                   {'category': category,
-#                    'categories': categories,
-#                    'products': products})
+
+
+def category(request, category_slug=None):
+    category = None
+    categories = Category.objects.all()
+    products = Product.objects.filter(available=True)
+    if category_slug:
+        category = get_object_or_404(Category, slug=category_slug)
+        products = products.filter(category=category)
+    return render(request,
+                  'shop/product/shop.html',
+                  {'category': category,
+                   'categories': categories,
+                   'products': products})
 
 
 def product_details(request, id, slug):
